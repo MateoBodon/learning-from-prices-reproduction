@@ -1,0 +1,3679 @@
+{
+  "branches": {
+    "article_updater_H": {
+      "certainty_equivalent": {
+        "classification_arithmetic": "exact_rational_core_domain; 100-digit display metrics beyond K=120",
+        "horizons": {
+          "0": {
+            "coefficient_error": {
+              "decimal": 0.2741228070175439,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -0.562054829656379,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "1": {
+            "coefficient_error": {
+              "decimal": 0.4990099642309658,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -0.3018907822978143,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 0.19991836309262825,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -0.6991473128177272,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "10": {
+            "coefficient_error": {
+              "decimal": 0.052284230379733156,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -1.2816292803828873,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 0.020946631334672432,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -1.6788858109027984,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "100": {
+            "coefficient_error": {
+              "decimal": 1.2589618426758717e-09,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -8.89998743253426,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 5.043778858639087e-10,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -9.2972439630542,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "1000": {
+            "coefficient_error": {
+              "classification_arithmetic": "display_only_not_used_for_classification",
+              "exact_zero": false,
+              "log10_absolute": -85.34020487497872,
+              "scientific": "4.56872612737579931e-86"
+            },
+            "price_error": {
+              "classification_arithmetic": "display_only_not_used_for_classification",
+              "exact_zero": false,
+              "log10_absolute": -85.73746140549865,
+              "scientific": "1.83036875869023624e-86"
+            },
+            "status": "DEFINED"
+          },
+          "2": {
+            "coefficient_error": {
+              "decimal": 0.20538836001002794,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -0.6874241728451587,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 0.08228473913294296,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -1.0846807033650698,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "20": {
+            "coefficient_error": {
+              "decimal": 0.007779909257337589,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -2.109025468468843,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 0.003116865063272017,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -2.5062819989887615,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "200": {
+            "coefficient_error": {
+              "classification_arithmetic": "display_only_not_used_for_classification",
+              "exact_zero": false,
+              "log10_absolute": -17.393344925605824,
+              "scientific": "4.04254696773608528e-18"
+            },
+            "price_error": {
+              "classification_arithmetic": "display_only_not_used_for_classification",
+              "exact_zero": false,
+              "log10_absolute": -17.79060145612574,
+              "scientific": "1.61956560077987101e-18"
+            },
+            "status": "DEFINED"
+          },
+          "3": {
+            "coefficient_error": {
+              "decimal": 0.28665687026110936,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -0.5426376450955388,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 0.1148433425776885,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -0.93989417561545,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "5": {
+            "coefficient_error": {
+              "decimal": 0.17594511463200638,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -0.7546227874694118,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 0.07048889167089864,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -1.1518793179893265,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "50": {
+            "coefficient_error": {
+              "decimal": 2.2216760110394625e-05,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -4.653319274322669,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 8.900700653015288e-06,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -5.050575804842595,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "500": {
+            "coefficient_error": {
+              "classification_arithmetic": "display_only_not_used_for_classification",
+              "exact_zero": false,
+              "log10_absolute": -42.87341740662067,
+              "scientific": "1.33838972361327156e-43"
+            },
+            "price_error": {
+              "classification_arithmetic": "display_only_not_used_for_classification",
+              "exact_zero": false,
+              "log10_absolute": -43.27067393714058,
+              "scientific": "5.36199077982572617e-44"
+            },
+            "status": "DEFINED"
+          },
+          "99": {
+            "coefficient_error": {
+              "decimal": 1.5308976053811548e-09,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -8.81505385626781,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 6.13323511088384e-10,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -9.212310386787749,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          }
+        },
+        "terminal_status": "DEFINED_THROUGH_1000"
+      },
+      "deposited_zero": {
+        "reason": "the deposited zero/special-first-update start belongs to the partial map",
+        "terminal_status": "NOT_APPLICABLE"
+      },
+      "fixed": {
+        "classification_arithmetic": "exact_rational",
+        "horizons": {
+          "0": {
+            "coefficient_error": {
+              "decimal": 0.0,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": true,
+              "log10_absolute": null,
+              "sign": 0
+            },
+            "status": "DEFINED"
+          },
+          "1": {
+            "coefficient_error": {
+              "decimal": 0.0,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": true,
+              "log10_absolute": null,
+              "sign": 0
+            },
+            "price_error": {
+              "decimal": 0.0,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": true,
+              "log10_absolute": null,
+              "sign": 0
+            },
+            "status": "DEFINED"
+          },
+          "10": {
+            "coefficient_error": {
+              "decimal": 0.0,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": true,
+              "log10_absolute": null,
+              "sign": 0
+            },
+            "price_error": {
+              "decimal": 0.0,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": true,
+              "log10_absolute": null,
+              "sign": 0
+            },
+            "status": "DEFINED"
+          },
+          "100": {
+            "coefficient_error": {
+              "decimal": 0.0,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": true,
+              "log10_absolute": null,
+              "sign": 0
+            },
+            "price_error": {
+              "decimal": 0.0,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": true,
+              "log10_absolute": null,
+              "sign": 0
+            },
+            "status": "DEFINED"
+          },
+          "1000": {
+            "coefficient_error": {
+              "decimal": 0.0,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": true,
+              "log10_absolute": null,
+              "sign": 0
+            },
+            "price_error": {
+              "decimal": 0.0,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": true,
+              "log10_absolute": null,
+              "sign": 0
+            },
+            "status": "DEFINED"
+          },
+          "2": {
+            "coefficient_error": {
+              "decimal": 0.0,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": true,
+              "log10_absolute": null,
+              "sign": 0
+            },
+            "price_error": {
+              "decimal": 0.0,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": true,
+              "log10_absolute": null,
+              "sign": 0
+            },
+            "status": "DEFINED"
+          },
+          "20": {
+            "coefficient_error": {
+              "decimal": 0.0,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": true,
+              "log10_absolute": null,
+              "sign": 0
+            },
+            "price_error": {
+              "decimal": 0.0,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": true,
+              "log10_absolute": null,
+              "sign": 0
+            },
+            "status": "DEFINED"
+          },
+          "200": {
+            "coefficient_error": {
+              "decimal": 0.0,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": true,
+              "log10_absolute": null,
+              "sign": 0
+            },
+            "price_error": {
+              "decimal": 0.0,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": true,
+              "log10_absolute": null,
+              "sign": 0
+            },
+            "status": "DEFINED"
+          },
+          "3": {
+            "coefficient_error": {
+              "decimal": 0.0,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": true,
+              "log10_absolute": null,
+              "sign": 0
+            },
+            "price_error": {
+              "decimal": 0.0,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": true,
+              "log10_absolute": null,
+              "sign": 0
+            },
+            "status": "DEFINED"
+          },
+          "5": {
+            "coefficient_error": {
+              "decimal": 0.0,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": true,
+              "log10_absolute": null,
+              "sign": 0
+            },
+            "price_error": {
+              "decimal": 0.0,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": true,
+              "log10_absolute": null,
+              "sign": 0
+            },
+            "status": "DEFINED"
+          },
+          "50": {
+            "coefficient_error": {
+              "decimal": 0.0,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": true,
+              "log10_absolute": null,
+              "sign": 0
+            },
+            "price_error": {
+              "decimal": 0.0,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": true,
+              "log10_absolute": null,
+              "sign": 0
+            },
+            "status": "DEFINED"
+          },
+          "500": {
+            "coefficient_error": {
+              "decimal": 0.0,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": true,
+              "log10_absolute": null,
+              "sign": 0
+            },
+            "price_error": {
+              "decimal": 0.0,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": true,
+              "log10_absolute": null,
+              "sign": 0
+            },
+            "status": "DEFINED"
+          },
+          "99": {
+            "coefficient_error": {
+              "decimal": 0.0,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": true,
+              "log10_absolute": null,
+              "sign": 0
+            },
+            "price_error": {
+              "decimal": 0.0,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": true,
+              "log10_absolute": null,
+              "sign": 0
+            },
+            "status": "DEFINED"
+          }
+        },
+        "terminal_status": "DEFINED_THROUGH_1000"
+      },
+      "minus_full": {
+        "classification_arithmetic": "exact_rational",
+        "horizons": {
+          "0": {
+            "status": "OUTSIDE_DEFINED_DOMAIN"
+          }
+        },
+        "terminal_k": 0,
+        "terminal_status": "OUTSIDE_DEFINED_DOMAIN"
+      },
+      "minus_quarter": {
+        "classification_arithmetic": "exact_rational_core_domain; 100-digit display metrics beyond K=120",
+        "horizons": {
+          "0": {
+            "coefficient_error": {
+              "decimal": 0.25,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -0.6020599913279625,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "1": {
+            "coefficient_error": {
+              "decimal": 0.3776435045317221,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -0.4229179807676626,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 0.3776435045317221,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -0.4229179807676626,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "10": {
+            "coefficient_error": {
+              "decimal": 0.04503304758319022,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -1.3464686614364325,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 0.04503304758319022,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -1.3464686614364325,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "100": {
+            "coefficient_error": {
+              "decimal": 1.0703387560530114e-09,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -8.970478748856095,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 1.0703387560530114e-09,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -8.970478748856095,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "1000": {
+            "coefficient_error": {
+              "classification_arithmetic": "display_only_not_used_for_classification",
+              "exact_zero": false,
+              "log10_absolute": -85.41069619143579,
+              "scientific": "3.88421989661431013e-86"
+            },
+            "price_error": {
+              "classification_arithmetic": "display_only_not_used_for_classification",
+              "exact_zero": false,
+              "log10_absolute": -85.41069619143579,
+              "scientific": "3.88421989661431063e-86"
+            },
+            "status": "DEFINED"
+          },
+          "2": {
+            "coefficient_error": {
+              "decimal": 0.1839598761434946,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -0.7352768914996908,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 0.1839598761434946,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -0.7352768914996908,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "20": {
+            "coefficient_error": {
+              "decimal": 0.006627039829522977,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -2.178680419224804,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 0.006627039829522977,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -2.178680419224804,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "200": {
+            "coefficient_error": {
+              "classification_arithmetic": "display_only_not_used_for_classification",
+              "exact_zero": false,
+              "log10_absolute": -17.46383624206289,
+              "scientific": "3.43687516548456475e-18"
+            },
+            "price_error": {
+              "classification_arithmetic": "display_only_not_used_for_classification",
+              "exact_zero": false,
+              "log10_absolute": -17.46383624206289,
+              "scientific": "3.43687516548456475e-18"
+            },
+            "status": "DEFINED"
+          },
+          "3": {
+            "coefficient_error": {
+              "decimal": 0.22757596769816574,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -0.642873601886544,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 0.22757596769816574,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -0.642873601886544,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "5": {
+            "coefficient_error": {
+              "decimal": 0.1433471203113684,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -0.8436110271363617,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 0.1433471203113684,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -0.8436110271363617,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "50": {
+            "coefficient_error": {
+              "decimal": 1.8888253174231867e-05,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -4.723808204697065,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 1.8888253174231867e-05,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -4.723808204697065,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "500": {
+            "coefficient_error": {
+              "classification_arithmetic": "display_only_not_used_for_classification",
+              "exact_zero": false,
+              "log10_absolute": -42.943908723077726,
+              "scientific": "1.13786640935485187e-43"
+            },
+            "price_error": {
+              "classification_arithmetic": "display_only_not_used_for_classification",
+              "exact_zero": false,
+              "log10_absolute": -42.943908723077726,
+              "scientific": "1.13786640935485187e-43"
+            },
+            "status": "DEFINED"
+          },
+          "99": {
+            "coefficient_error": {
+              "decimal": 1.3015319304475273e-09,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -8.885545172889294,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 1.3015319304475273e-09,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -8.885545172889294,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          }
+        },
+        "terminal_status": "DEFINED_THROUGH_1000"
+      },
+      "plus_full": {
+        "classification_arithmetic": "exact_rational_core_domain; 100-digit display metrics beyond K=120",
+        "horizons": {
+          "0": {
+            "coefficient_error": {
+              "decimal": 1.0,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": 0.0,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "1": {
+            "coefficient_error": {
+              "decimal": 0.2913752913752914,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -0.5355472791766687,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 0.2913752913752914,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -0.5355472791766687,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "10": {
+            "coefficient_error": {
+              "decimal": 0.07611927917781729,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -1.1185053329780104,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 0.07611927917781729,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -1.1185053329780104,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "100": {
+            "coefficient_error": {
+              "decimal": 1.605508138375611e-09,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -8.794387488638307,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 1.605508138375611e-09,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -8.794387488638307,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "1000": {
+            "coefficient_error": {
+              "classification_arithmetic": "display_only_not_used_for_classification",
+              "exact_zero": false,
+              "log10_absolute": -85.23460493238011,
+              "scientific": "5.82632984492146383e-86"
+            },
+            "price_error": {
+              "classification_arithmetic": "display_only_not_used_for_classification",
+              "exact_zero": false,
+              "log10_absolute": -85.23460493238011,
+              "scientific": "5.82632984492146394e-86"
+            },
+            "status": "DEFINED"
+          },
+          "2": {
+            "coefficient_error": {
+              "decimal": 0.5109047510054605,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -0.2916600587077127,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 0.5109047510054605,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -0.2916600587077127,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "20": {
+            "coefficient_error": {
+              "decimal": 0.010108025462631188,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -1.99533367274082,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 0.010108025462631188,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -1.99533367274082,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "200": {
+            "coefficient_error": {
+              "classification_arithmetic": "display_only_not_used_for_classification",
+              "exact_zero": false,
+              "log10_absolute": -17.287744983007208,
+              "scientific": "5.15531274822684717e-18"
+            },
+            "price_error": {
+              "classification_arithmetic": "display_only_not_used_for_classification",
+              "exact_zero": false,
+              "log10_absolute": -17.287744983007208,
+              "scientific": "5.15531274822684717e-18"
+            },
+            "status": "DEFINED"
+          },
+          "3": {
+            "coefficient_error": {
+              "decimal": 0.21757617825890266,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -0.6623886559271845,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 0.21757617825890266,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -0.6623886559271845,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "5": {
+            "coefficient_error": {
+              "decimal": 0.1582934168079026,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -0.8005371464355093,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 0.1582934168079026,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -0.8005371464355093,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "50": {
+            "coefficient_error": {
+              "decimal": 2.8333717697430892e-05,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -4.547696437496853,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 2.8333717697430892e-05,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -4.547696437496853,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "500": {
+            "coefficient_error": {
+              "classification_arithmetic": "display_only_not_used_for_classification",
+              "exact_zero": false,
+              "log10_absolute": -42.767817464022045,
+              "scientific": "1.7067996140322778e-43"
+            },
+            "price_error": {
+              "classification_arithmetic": "display_only_not_used_for_classification",
+              "exact_zero": false,
+              "log10_absolute": -42.767817464022045,
+              "scientific": "1.7067996140322778e-43"
+            },
+            "status": "DEFINED"
+          },
+          "99": {
+            "coefficient_error": {
+              "decimal": 1.9522978893188456e-09,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -8.70945391524674,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 1.9522978893188456e-09,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -8.70945391524674,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          }
+        },
+        "terminal_status": "DEFINED_THROUGH_1000"
+      },
+      "plus_quarter": {
+        "classification_arithmetic": "exact_rational_core_domain; 100-digit display metrics beyond K=120",
+        "horizons": {
+          "0": {
+            "coefficient_error": {
+              "decimal": 0.25,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -0.6020599913279625,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "1": {
+            "coefficient_error": {
+              "decimal": 0.14124293785310735,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -0.8500332576897698,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 0.14124293785310735,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -0.8500332576897698,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "10": {
+            "coefficient_error": {
+              "decimal": 0.029117853652391775,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -1.5358406410786785,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 0.029117853652391775,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -1.5358406410786785,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "100": {
+            "coefficient_error": {
+              "decimal": 6.422032547316069e-10,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -9.192327497728712,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 6.422032547316069e-10,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -9.192327497728712,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "1000": {
+            "coefficient_error": {
+              "classification_arithmetic": "display_only_not_used_for_classification",
+              "exact_zero": false,
+              "log10_absolute": -85.63254494105215,
+              "scientific": "2.33053193796858744e-86"
+            },
+            "price_error": {
+              "classification_arithmetic": "display_only_not_used_for_classification",
+              "exact_zero": false,
+              "log10_absolute": -85.63254494105215,
+              "scientific": "2.33053193796858744e-86"
+            },
+            "status": "DEFINED"
+          },
+          "2": {
+            "coefficient_error": {
+              "decimal": 0.15641423494669404,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -0.8057237252053397,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 0.15641423494669404,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -0.8057237252053397,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "20": {
+            "coefficient_error": {
+              "decimal": 0.004018836682939689,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -2.39589964226262,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 0.004018836682939689,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -2.39589964226262,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "200": {
+            "coefficient_error": {
+              "classification_arithmetic": "display_only_not_used_for_classification",
+              "exact_zero": false,
+              "log10_absolute": -17.685684991679246,
+              "scientific": "2.06212509929073886e-18"
+            },
+            "price_error": {
+              "classification_arithmetic": "display_only_not_used_for_classification",
+              "exact_zero": false,
+              "log10_absolute": -17.685684991679246,
+              "scientific": "2.06212509929073886e-18"
+            },
+            "status": "DEFINED"
+          },
+          "3": {
+            "coefficient_error": {
+              "decimal": 0.10009781077599539,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -0.9995754208054155,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 0.10009781077599539,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -0.9995754208054155,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "5": {
+            "coefficient_error": {
+              "decimal": 0.06996208965419062,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -1.1551372273275717,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 0.06996208965419062,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -1.1551372273275717,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "50": {
+            "coefficient_error": {
+              "decimal": 1.1333294410353714e-05,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -4.945643829212486,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 1.1333294410353714e-05,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -4.945643829212486,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "500": {
+            "coefficient_error": {
+              "classification_arithmetic": "display_only_not_used_for_classification",
+              "exact_zero": false,
+              "log10_absolute": -43.16575747269408,
+              "scientific": "6.8271984561291112e-44"
+            },
+            "price_error": {
+              "classification_arithmetic": "display_only_not_used_for_classification",
+              "exact_zero": false,
+              "log10_absolute": -43.16575747269408,
+              "scientific": "6.8271984561291112e-44"
+            },
+            "status": "DEFINED"
+          },
+          "99": {
+            "coefficient_error": {
+              "decimal": 7.809191566422904e-10,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -9.107393923410058,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 7.809191566422904e-10,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -9.107393923410058,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          }
+        },
+        "terminal_status": "DEFINED_THROUGH_1000"
+      },
+      "projector_direction_starts": {
+        "coefficient_error": {
+          "status": "NOT_APPLICABLE"
+        },
+        "estimand_scope": "scalar_chart_domain_safety_only",
+        "full_vector_completion": "SCALAR_REDUCTION_ONLY",
+        "ledger": "private_scalar_starts",
+        "price_error": {
+          "status": "NOT_APPLICABLE"
+        },
+        "terminal_status": "APPLICABLE_VIA_SHARED_PRIVATE_SCALAR_REDUCTION"
+      }
+    },
+    "deposited_D": {
+      "certainty_equivalent": {
+        "classification_arithmetic": "exact_rational_core_domain; 100-digit display metrics beyond K=120",
+        "horizons": {
+          "0": {
+            "coefficient_error": {
+              "decimal": 0.2741228070175439,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -0.562054829656379,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "1": {
+            "coefficient_error": {
+              "decimal": 0.4990099642309658,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -0.3018907822978143,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 0.23795646445523486,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -0.6235024924239454,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "10": {
+            "coefficient_error": {
+              "decimal": 0.052284230379733156,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -1.2816292803828873,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 0.0354430910802899,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -1.4504684092293019,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "100": {
+            "coefficient_error": {
+              "decimal": 1.2589618426758717e-09,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -8.89998743253426,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 8.50055145950778e-10,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -9.070552899220274,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "1000": {
+            "coefficient_error": {
+              "classification_arithmetic": "display_only_not_used_for_classification",
+              "exact_zero": false,
+              "log10_absolute": -85.34020487497872,
+              "scientific": "4.56872612737579931e-86"
+            },
+            "price_error": {
+              "classification_arithmetic": "display_only_not_used_for_classification",
+              "exact_zero": false,
+              "log10_absolute": -85.51077034172818,
+              "scientific": "3.08481879498224766e-86"
+            },
+            "status": "DEFINED"
+          },
+          "2": {
+            "coefficient_error": {
+              "decimal": 0.20538836001002794,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -0.6874241728451587,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 0.11688570549936744,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -0.9322385974979923,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "20": {
+            "coefficient_error": {
+              "decimal": 0.007779909257337589,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -2.109025468468843,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 0.005257613390803499,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -2.279211352123525,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "200": {
+            "coefficient_error": {
+              "classification_arithmetic": "display_only_not_used_for_classification",
+              "exact_zero": false,
+              "log10_absolute": -17.393344925605824,
+              "scientific": "4.04254696773608528e-18"
+            },
+            "price_error": {
+              "classification_arithmetic": "display_only_not_used_for_classification",
+              "exact_zero": false,
+              "log10_absolute": -17.563910392355275,
+              "scientific": "2.72954090877704507e-18"
+            },
+            "status": "DEFINED"
+          },
+          "3": {
+            "coefficient_error": {
+              "decimal": 0.28665687026110936,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -0.5426376450955388,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 0.17274473563095968,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -0.7625951788091143,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "5": {
+            "coefficient_error": {
+              "decimal": 0.17594511463200638,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -0.7546227874694118,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 0.11345750201364746,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -0.9451667824990722,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "50": {
+            "coefficient_error": {
+              "decimal": 2.2216760110394625e-05,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -4.653319274322669,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 1.5000867359738476e-05,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -4.823883629033844,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "500": {
+            "coefficient_error": {
+              "classification_arithmetic": "display_only_not_used_for_classification",
+              "exact_zero": false,
+              "log10_absolute": -42.87341740662067,
+              "scientific": "1.33838972361327156e-43"
+            },
+            "price_error": {
+              "classification_arithmetic": "display_only_not_used_for_classification",
+              "exact_zero": false,
+              "log10_absolute": -43.04398287337011,
+              "scientific": "9.0368511031427631e-44"
+            },
+            "status": "DEFINED"
+          },
+          "99": {
+            "coefficient_error": {
+              "decimal": 1.5308976053811548e-09,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -8.81505385626781,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 1.033667060308635e-09,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -8.985619323093488,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          }
+        },
+        "terminal_status": "DEFINED_THROUGH_1000"
+      },
+      "deposited_zero": {
+        "reason": "the deposited zero/special-first-update start belongs to the partial map",
+        "terminal_status": "NOT_APPLICABLE"
+      },
+      "fixed": {
+        "classification_arithmetic": "exact_rational",
+        "horizons": {
+          "0": {
+            "coefficient_error": {
+              "decimal": 0.0,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": true,
+              "log10_absolute": null,
+              "sign": 0
+            },
+            "status": "DEFINED"
+          },
+          "1": {
+            "coefficient_error": {
+              "decimal": 0.0,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": true,
+              "log10_absolute": null,
+              "sign": 0
+            },
+            "price_error": {
+              "decimal": 0.0,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": true,
+              "log10_absolute": null,
+              "sign": 0
+            },
+            "status": "DEFINED"
+          },
+          "10": {
+            "coefficient_error": {
+              "decimal": 0.0,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": true,
+              "log10_absolute": null,
+              "sign": 0
+            },
+            "price_error": {
+              "decimal": 0.0,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": true,
+              "log10_absolute": null,
+              "sign": 0
+            },
+            "status": "DEFINED"
+          },
+          "100": {
+            "coefficient_error": {
+              "decimal": 0.0,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": true,
+              "log10_absolute": null,
+              "sign": 0
+            },
+            "price_error": {
+              "decimal": 0.0,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": true,
+              "log10_absolute": null,
+              "sign": 0
+            },
+            "status": "DEFINED"
+          },
+          "1000": {
+            "coefficient_error": {
+              "decimal": 0.0,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": true,
+              "log10_absolute": null,
+              "sign": 0
+            },
+            "price_error": {
+              "decimal": 0.0,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": true,
+              "log10_absolute": null,
+              "sign": 0
+            },
+            "status": "DEFINED"
+          },
+          "2": {
+            "coefficient_error": {
+              "decimal": 0.0,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": true,
+              "log10_absolute": null,
+              "sign": 0
+            },
+            "price_error": {
+              "decimal": 0.0,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": true,
+              "log10_absolute": null,
+              "sign": 0
+            },
+            "status": "DEFINED"
+          },
+          "20": {
+            "coefficient_error": {
+              "decimal": 0.0,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": true,
+              "log10_absolute": null,
+              "sign": 0
+            },
+            "price_error": {
+              "decimal": 0.0,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": true,
+              "log10_absolute": null,
+              "sign": 0
+            },
+            "status": "DEFINED"
+          },
+          "200": {
+            "coefficient_error": {
+              "decimal": 0.0,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": true,
+              "log10_absolute": null,
+              "sign": 0
+            },
+            "price_error": {
+              "decimal": 0.0,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": true,
+              "log10_absolute": null,
+              "sign": 0
+            },
+            "status": "DEFINED"
+          },
+          "3": {
+            "coefficient_error": {
+              "decimal": 0.0,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": true,
+              "log10_absolute": null,
+              "sign": 0
+            },
+            "price_error": {
+              "decimal": 0.0,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": true,
+              "log10_absolute": null,
+              "sign": 0
+            },
+            "status": "DEFINED"
+          },
+          "5": {
+            "coefficient_error": {
+              "decimal": 0.0,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": true,
+              "log10_absolute": null,
+              "sign": 0
+            },
+            "price_error": {
+              "decimal": 0.0,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": true,
+              "log10_absolute": null,
+              "sign": 0
+            },
+            "status": "DEFINED"
+          },
+          "50": {
+            "coefficient_error": {
+              "decimal": 0.0,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": true,
+              "log10_absolute": null,
+              "sign": 0
+            },
+            "price_error": {
+              "decimal": 0.0,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": true,
+              "log10_absolute": null,
+              "sign": 0
+            },
+            "status": "DEFINED"
+          },
+          "500": {
+            "coefficient_error": {
+              "decimal": 0.0,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": true,
+              "log10_absolute": null,
+              "sign": 0
+            },
+            "price_error": {
+              "decimal": 0.0,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": true,
+              "log10_absolute": null,
+              "sign": 0
+            },
+            "status": "DEFINED"
+          },
+          "99": {
+            "coefficient_error": {
+              "decimal": 0.0,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": true,
+              "log10_absolute": null,
+              "sign": 0
+            },
+            "price_error": {
+              "decimal": 0.0,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": true,
+              "log10_absolute": null,
+              "sign": 0
+            },
+            "status": "DEFINED"
+          }
+        },
+        "terminal_status": "DEFINED_THROUGH_1000"
+      },
+      "minus_full": {
+        "classification_arithmetic": "exact_rational",
+        "horizons": {
+          "0": {
+            "status": "OUTSIDE_DEFINED_DOMAIN"
+          }
+        },
+        "terminal_k": 0,
+        "terminal_status": "OUTSIDE_DEFINED_DOMAIN"
+      },
+      "minus_quarter": {
+        "classification_arithmetic": "exact_rational_core_domain; 100-digit display metrics beyond K=120",
+        "horizons": {
+          "0": {
+            "coefficient_error": {
+              "decimal": 0.25,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -0.6020599913279625,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "1": {
+            "coefficient_error": {
+              "decimal": 0.3776435045317221,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -0.4229179807676626,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 0.3290891662550068,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -0.4826864146157277,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "10": {
+            "coefficient_error": {
+              "decimal": 0.04503304758319022,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -1.3464686614364325,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 0.03429367811897917,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -1.4647859327587582,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "100": {
+            "coefficient_error": {
+              "decimal": 1.0703387560530114e-09,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -8.970478748856095,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 8.174165764129437e-10,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -9.087556559465156,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "1000": {
+            "coefficient_error": {
+              "classification_arithmetic": "display_only_not_used_for_classification",
+              "exact_zero": false,
+              "log10_absolute": -85.41069619143579,
+              "scientific": "3.88421989661431013e-86"
+            },
+            "price_error": {
+              "classification_arithmetic": "display_only_not_used_for_classification",
+              "exact_zero": false,
+              "log10_absolute": -85.52777400200588,
+              "scientific": "2.96637462883365855e-86"
+            },
+            "status": "DEFINED"
+          },
+          "2": {
+            "coefficient_error": {
+              "decimal": 0.1839598761434946,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -0.7352768914996908,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 0.14934870101183145,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -0.8257985504006413,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "20": {
+            "coefficient_error": {
+              "decimal": 0.006627039829522977,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -2.178680419224804,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 0.0050582799070831965,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -2.2959971420264083,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "200": {
+            "coefficient_error": {
+              "classification_arithmetic": "display_only_not_used_for_classification",
+              "exact_zero": false,
+              "log10_absolute": -17.46383624206289,
+              "scientific": "3.43687516548456475e-18"
+            },
+            "price_error": {
+              "classification_arithmetic": "display_only_not_used_for_classification",
+              "exact_zero": false,
+              "log10_absolute": -17.580914052632977,
+              "scientific": "2.62473793058123372e-18"
+            },
+            "status": "DEFINED"
+          },
+          "3": {
+            "coefficient_error": {
+              "decimal": 0.22757596769816574,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -0.642873601886544,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 0.1832433761188466,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -0.7369717152790685,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "5": {
+            "coefficient_error": {
+              "decimal": 0.1433471203113684,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -0.8436110271363617,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 0.11208568613851273,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -0.9504498452817032,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "50": {
+            "coefficient_error": {
+              "decimal": 1.8888253174231867e-05,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -4.723808204697065,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 1.4424915930297908e-05,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -4.840886709272127,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "500": {
+            "coefficient_error": {
+              "classification_arithmetic": "display_only_not_used_for_classification",
+              "exact_zero": false,
+              "log10_absolute": -42.943908723077726,
+              "scientific": "1.13786640935485187e-43"
+            },
+            "price_error": {
+              "classification_arithmetic": "display_only_not_used_for_classification",
+              "exact_zero": false,
+              "log10_absolute": -43.06098653364782,
+              "scientific": "8.68987373926591889e-44"
+            },
+            "status": "DEFINED"
+          },
+          "99": {
+            "coefficient_error": {
+              "decimal": 1.3015319304475273e-09,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -8.885545172889294,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 9.93978559475197e-10,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -9.002622983411129,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          }
+        },
+        "terminal_status": "DEFINED_THROUGH_1000"
+      },
+      "plus_full": {
+        "classification_arithmetic": "exact_rational_core_domain; 100-digit display metrics beyond K=120",
+        "horizons": {
+          "0": {
+            "coefficient_error": {
+              "decimal": 1.0,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": 0.0,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "1": {
+            "coefficient_error": {
+              "decimal": 0.2913752913752914,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -0.5355472791766687,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 0.25391262011749943,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -0.595315713024732,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "10": {
+            "coefficient_error": {
+              "decimal": 0.07611927917781729,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -1.1185053329780104,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 0.05858165904459589,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -1.2322383331714661,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "100": {
+            "coefficient_error": {
+              "decimal": 1.605508138375611e-09,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -8.794387488638307,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 1.2261248681779274e-09,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -8.911465299150223,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "1000": {
+            "coefficient_error": {
+              "classification_arithmetic": "display_only_not_used_for_classification",
+              "exact_zero": false,
+              "log10_absolute": -85.23460493238011,
+              "scientific": "5.82632984492146383e-86"
+            },
+            "price_error": {
+              "classification_arithmetic": "display_only_not_used_for_classification",
+              "exact_zero": false,
+              "log10_absolute": -85.3516827429502,
+              "scientific": "4.44956194325048849e-86"
+            },
+            "status": "DEFINED"
+          },
+          "2": {
+            "coefficient_error": {
+              "decimal": 0.5109047510054605,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -0.2916600587077127,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 0.42877810282820383,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -0.3677674016354935,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "20": {
+            "coefficient_error": {
+              "decimal": 0.010108025462631188,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -1.99533367274082,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 0.007726259996723067,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -2.1120306814821106,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "200": {
+            "coefficient_error": {
+              "classification_arithmetic": "display_only_not_used_for_classification",
+              "exact_zero": false,
+              "log10_absolute": -17.287744983007208,
+              "scientific": "5.15531274822684717e-18"
+            },
+            "price_error": {
+              "classification_arithmetic": "display_only_not_used_for_classification",
+              "exact_zero": false,
+              "log10_absolute": -17.404822793577296,
+              "scientific": "3.93710689587185061e-18"
+            },
+            "status": "DEFINED"
+          },
+          "3": {
+            "coefficient_error": {
+              "decimal": 0.21757617825890266,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -0.6623886559271845,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 0.17117361139571405,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -0.7665631865546985,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "5": {
+            "coefficient_error": {
+              "decimal": 0.1582934168079026,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -0.8005371464355093,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 0.12122979775424632,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -0.9163906193636961,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "50": {
+            "coefficient_error": {
+              "decimal": 2.8333717697430892e-05,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -4.547696437496853,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 2.1638482128593666e-05,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -4.66477320688773,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "500": {
+            "coefficient_error": {
+              "classification_arithmetic": "display_only_not_used_for_classification",
+              "exact_zero": false,
+              "log10_absolute": -42.767817464022045,
+              "scientific": "1.7067996140322778e-43"
+            },
+            "price_error": {
+              "classification_arithmetic": "display_only_not_used_for_classification",
+              "exact_zero": false,
+              "log10_absolute": -42.88489527459214,
+              "scientific": "1.30348106088988783e-43"
+            },
+            "status": "DEFINED"
+          },
+          "99": {
+            "coefficient_error": {
+              "decimal": 1.9522978893188456e-09,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -8.70945391524674,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 1.4909678339509806e-09,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -8.826531725888344,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          }
+        },
+        "terminal_status": "DEFINED_THROUGH_1000"
+      },
+      "plus_quarter": {
+        "classification_arithmetic": "exact_rational_core_domain; 100-digit display metrics beyond K=120",
+        "horizons": {
+          "0": {
+            "coefficient_error": {
+              "decimal": 0.25,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -0.6020599913279625,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "1": {
+            "coefficient_error": {
+              "decimal": 0.14124293785310735,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -0.8500332576897698,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 0.12308306670102515,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -0.9098016915378331,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "10": {
+            "coefficient_error": {
+              "decimal": 0.029117853652391775,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -1.5358406410786785,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 0.022308822408932897,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -1.6515233537323297,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "100": {
+            "coefficient_error": {
+              "decimal": 6.422032547316069e-10,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -9.192327497728712,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 4.904499467587453e-10,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -9.309405308276837,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "1000": {
+            "coefficient_error": {
+              "classification_arithmetic": "display_only_not_used_for_classification",
+              "exact_zero": false,
+              "log10_absolute": -85.63254494105215,
+              "scientific": "2.33053193796858744e-86"
+            },
+            "price_error": {
+              "classification_arithmetic": "display_only_not_used_for_classification",
+              "exact_zero": false,
+              "log10_absolute": -85.74962275162224,
+              "scientific": "1.7798247773001986e-86"
+            },
+            "status": "DEFINED"
+          },
+          "2": {
+            "coefficient_error": {
+              "decimal": 0.15641423494669404,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -0.8057237252053397,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 0.12972829753693246,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -0.8869652812505571,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "20": {
+            "coefficient_error": {
+              "decimal": 0.004018836682939689,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -2.39589964226262,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 0.0030702399347005468,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -2.512827683726414,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "200": {
+            "coefficient_error": {
+              "classification_arithmetic": "display_only_not_used_for_classification",
+              "exact_zero": false,
+              "log10_absolute": -17.685684991679246,
+              "scientific": "2.06212509929073886e-18"
+            },
+            "price_error": {
+              "classification_arithmetic": "display_only_not_used_for_classification",
+              "exact_zero": false,
+              "log10_absolute": -17.802762802249333,
+              "scientific": "1.57484275834874024e-18"
+            },
+            "status": "DEFINED"
+          },
+          "3": {
+            "coefficient_error": {
+              "decimal": 0.10009781077599539,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -0.9995754208054155,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 0.07925467176173272,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -1.1009751283462847,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "5": {
+            "coefficient_error": {
+              "decimal": 0.06996208965419062,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -1.1551372273275717,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 0.05384750724831708,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -1.2688343966066356,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "50": {
+            "coefficient_error": {
+              "decimal": 1.1333294410353714e-05,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -4.945643829212486,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 8.65523325971038e-06,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -5.062721223335757,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "500": {
+            "coefficient_error": {
+              "classification_arithmetic": "display_only_not_used_for_classification",
+              "exact_zero": false,
+              "log10_absolute": -43.16575747269408,
+              "scientific": "6.8271984561291112e-44"
+            },
+            "price_error": {
+              "classification_arithmetic": "display_only_not_used_for_classification",
+              "exact_zero": false,
+              "log10_absolute": -43.28283528326418,
+              "scientific": "5.21392424355955134e-44"
+            },
+            "status": "DEFINED"
+          },
+          "99": {
+            "coefficient_error": {
+              "decimal": 7.809191566422904e-10,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -9.107393923410058,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 5.963871343380936e-10,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -9.224471734007238,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          }
+        },
+        "terminal_status": "DEFINED_THROUGH_1000"
+      },
+      "projector_direction_starts": {
+        "coefficient_error": {
+          "status": "NOT_APPLICABLE"
+        },
+        "estimand_scope": "scalar_chart_domain_safety_only",
+        "full_vector_completion": "SCALAR_REDUCTION_ONLY",
+        "ledger": "private_scalar_starts",
+        "price_error": {
+          "status": "NOT_APPLICABLE"
+        },
+        "terminal_status": "APPLICABLE_VIA_SHARED_PRIVATE_SCALAR_REDUCTION"
+      }
+    },
+    "partial_revelation_benchmark": {
+      "certainty_equivalent": {
+        "reason": "private-map start; not a partial-map start",
+        "terminal_status": "NOT_APPLICABLE"
+      },
+      "deposited_zero": {
+        "classification_arithmetic": "exact_rational",
+        "horizons": {
+          "0": {
+            "coefficient_error": {
+              "decimal": 1.0,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": 0.0,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "1": {
+            "coefficient_error": {
+              "decimal": 0.17979144192736426,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -0.7452309845281402,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 0.07244008233433748,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -1.1400210647449462,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "10": {
+            "coefficient_error": {
+              "decimal": 0.0012834109645279423,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -2.891634254733436,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 0.0005171013422138061,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -3.2864243349502402,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "100": {
+            "coefficient_error": {
+              "decimal": 2.3362566872347574e-24,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -23.631479442499142,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 9.413052421360786e-25,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -24.026269522715964,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "1000": {
+            "coefficient_error": {
+              "decimal": 9.214914649680032e-232,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -231.03550868294576,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 3.712797276504384e-232,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -231.43029876316257,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "2": {
+            "coefficient_error": {
+              "decimal": 0.08226796320976686,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -1.0847692548234882,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 0.03314672803392608,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -1.4795593350402942,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "20": {
+            "coefficient_error": {
+              "decimal": 6.374285325386809e-06,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -5.195568500562999,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 2.56827437859989e-06,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -5.5903585807797995,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "200": {
+            "coefficient_error": {
+              "decimal": 2.106824789138561e-47,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -46.67637158032656,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 8.488644373344448e-48,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -47.07116166054334,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "3": {
+            "coefficient_error": {
+              "decimal": 0.0556663315553507,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -1.2544073980169905,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 0.022428618391910182,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -1.6491974782337966,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "5": {
+            "coefficient_error": {
+              "decimal": 0.01858512202030268,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -1.730834583205855,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 0.007488163813093745,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -2.1256246634226645,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "50": {
+            "coefficient_error": {
+              "decimal": 7.779767647127601e-13,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -12.109033373585788,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 3.134559703501457e-13,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -12.503823453802596,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "500": {
+            "coefficient_error": {
+              "decimal": 1.545083683170594e-116,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -115.81104799380864,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 6.225323520545396e-117,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -116.20583807402556,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "99": {
+            "coefficient_error": {
+              "decimal": 3.971636368299087e-24,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -23.401030521120873,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 1.6002189116313337e-24,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -23.795820601337695,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          }
+        },
+        "terminal_status": "DEFINED_THROUGH_1000"
+      },
+      "fixed": {
+        "classification_arithmetic": "exact_rational",
+        "horizons": {
+          "0": {
+            "coefficient_error": {
+              "decimal": 0.0,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": true,
+              "log10_absolute": null,
+              "sign": 0
+            },
+            "status": "DEFINED"
+          },
+          "1": {
+            "coefficient_error": {
+              "decimal": 0.0,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": true,
+              "log10_absolute": null,
+              "sign": 0
+            },
+            "price_error": {
+              "decimal": 0.0,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": true,
+              "log10_absolute": null,
+              "sign": 0
+            },
+            "status": "DEFINED"
+          },
+          "10": {
+            "coefficient_error": {
+              "decimal": 0.0,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": true,
+              "log10_absolute": null,
+              "sign": 0
+            },
+            "price_error": {
+              "decimal": 0.0,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": true,
+              "log10_absolute": null,
+              "sign": 0
+            },
+            "status": "DEFINED"
+          },
+          "100": {
+            "coefficient_error": {
+              "decimal": 0.0,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": true,
+              "log10_absolute": null,
+              "sign": 0
+            },
+            "price_error": {
+              "decimal": 0.0,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": true,
+              "log10_absolute": null,
+              "sign": 0
+            },
+            "status": "DEFINED"
+          },
+          "1000": {
+            "coefficient_error": {
+              "decimal": 0.0,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": true,
+              "log10_absolute": null,
+              "sign": 0
+            },
+            "price_error": {
+              "decimal": 0.0,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": true,
+              "log10_absolute": null,
+              "sign": 0
+            },
+            "status": "DEFINED"
+          },
+          "2": {
+            "coefficient_error": {
+              "decimal": 0.0,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": true,
+              "log10_absolute": null,
+              "sign": 0
+            },
+            "price_error": {
+              "decimal": 0.0,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": true,
+              "log10_absolute": null,
+              "sign": 0
+            },
+            "status": "DEFINED"
+          },
+          "20": {
+            "coefficient_error": {
+              "decimal": 0.0,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": true,
+              "log10_absolute": null,
+              "sign": 0
+            },
+            "price_error": {
+              "decimal": 0.0,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": true,
+              "log10_absolute": null,
+              "sign": 0
+            },
+            "status": "DEFINED"
+          },
+          "200": {
+            "coefficient_error": {
+              "decimal": 0.0,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": true,
+              "log10_absolute": null,
+              "sign": 0
+            },
+            "price_error": {
+              "decimal": 0.0,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": true,
+              "log10_absolute": null,
+              "sign": 0
+            },
+            "status": "DEFINED"
+          },
+          "3": {
+            "coefficient_error": {
+              "decimal": 0.0,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": true,
+              "log10_absolute": null,
+              "sign": 0
+            },
+            "price_error": {
+              "decimal": 0.0,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": true,
+              "log10_absolute": null,
+              "sign": 0
+            },
+            "status": "DEFINED"
+          },
+          "5": {
+            "coefficient_error": {
+              "decimal": 0.0,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": true,
+              "log10_absolute": null,
+              "sign": 0
+            },
+            "price_error": {
+              "decimal": 0.0,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": true,
+              "log10_absolute": null,
+              "sign": 0
+            },
+            "status": "DEFINED"
+          },
+          "50": {
+            "coefficient_error": {
+              "decimal": 0.0,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": true,
+              "log10_absolute": null,
+              "sign": 0
+            },
+            "price_error": {
+              "decimal": 0.0,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": true,
+              "log10_absolute": null,
+              "sign": 0
+            },
+            "status": "DEFINED"
+          },
+          "500": {
+            "coefficient_error": {
+              "decimal": 0.0,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": true,
+              "log10_absolute": null,
+              "sign": 0
+            },
+            "price_error": {
+              "decimal": 0.0,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": true,
+              "log10_absolute": null,
+              "sign": 0
+            },
+            "status": "DEFINED"
+          },
+          "99": {
+            "coefficient_error": {
+              "decimal": 0.0,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": true,
+              "log10_absolute": null,
+              "sign": 0
+            },
+            "price_error": {
+              "decimal": 0.0,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": true,
+              "log10_absolute": null,
+              "sign": 0
+            },
+            "status": "DEFINED"
+          }
+        },
+        "terminal_status": "DEFINED_THROUGH_1000"
+      },
+      "minus_full": {
+        "classification_arithmetic": "exact_rational",
+        "horizons": {
+          "0": {
+            "coefficient_error": {
+              "decimal": 1.0,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": 0.0,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "1": {
+            "coefficient_error": {
+              "decimal": 0.17979144192736426,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -0.7452309845281402,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 0.07244008233433748,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -1.1400210647449462,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "10": {
+            "coefficient_error": {
+              "decimal": 0.0012834109645279423,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -2.891634254733436,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 0.0005171013422138061,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -3.2864243349502402,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "100": {
+            "coefficient_error": {
+              "decimal": 2.3362566872347574e-24,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -23.631479442499142,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 9.413052421360786e-25,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -24.026269522715964,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "1000": {
+            "coefficient_error": {
+              "decimal": 9.214914649680032e-232,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -231.03550868294576,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 3.712797276504384e-232,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -231.43029876316257,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "2": {
+            "coefficient_error": {
+              "decimal": 0.08226796320976686,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -1.0847692548234882,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 0.03314672803392608,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -1.4795593350402942,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "20": {
+            "coefficient_error": {
+              "decimal": 6.374285325386809e-06,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -5.195568500562999,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 2.56827437859989e-06,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -5.5903585807797995,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "200": {
+            "coefficient_error": {
+              "decimal": 2.106824789138561e-47,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -46.67637158032656,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 8.488644373344448e-48,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -47.07116166054334,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "3": {
+            "coefficient_error": {
+              "decimal": 0.0556663315553507,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -1.2544073980169905,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 0.022428618391910182,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -1.6491974782337966,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "5": {
+            "coefficient_error": {
+              "decimal": 0.01858512202030268,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -1.730834583205855,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 0.007488163813093745,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -2.1256246634226645,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "50": {
+            "coefficient_error": {
+              "decimal": 7.779767647127601e-13,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -12.109033373585788,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 3.134559703501457e-13,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -12.503823453802596,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "500": {
+            "coefficient_error": {
+              "decimal": 1.545083683170594e-116,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -115.81104799380864,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 6.225323520545396e-117,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -116.20583807402556,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "99": {
+            "coefficient_error": {
+              "decimal": 3.971636368299087e-24,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -23.401030521120873,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 1.6002189116313337e-24,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -23.795820601337695,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          }
+        },
+        "terminal_status": "DEFINED_THROUGH_1000"
+      },
+      "minus_quarter": {
+        "classification_arithmetic": "exact_rational",
+        "horizons": {
+          "0": {
+            "coefficient_error": {
+              "decimal": 0.25,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -0.6020599913279625,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "1": {
+            "coefficient_error": {
+              "decimal": 0.24390243902439024,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -0.6127838567197355,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 0.09010408575423334,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -1.0452555155660317,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "10": {
+            "coefficient_error": {
+              "decimal": 0.0016507147913267033,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -2.7823279571751094,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 0.0006098182031652789,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -3.214799616021409,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "100": {
+            "coefficient_error": {
+              "decimal": 3.005983604242054e-24,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -23.522013392547052,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 1.1104907582550264e-24,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -23.954485051393334,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "1000": {
+            "coefficient_error": {
+              "decimal": 1.1856523515921641e-231,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -230.92604263299359,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 4.3801169676653194e-232,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -231.35851429183992,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "2": {
+            "coefficient_error": {
+              "decimal": 0.10341261633919338,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -0.9854264740830017,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 0.03820338692785488,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -1.4178981329292988,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "20": {
+            "coefficient_error": {
+              "decimal": 8.201565465317088e-06,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -5.086103244194376,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 3.0298776878241474e-06,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -5.5185749030406726,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "200": {
+            "coefficient_error": {
+              "decimal": 2.710781228691615e-47,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -46.56690553037447,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 1.0014351035930808e-47,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -46.99937718922072,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "3": {
+            "coefficient_error": {
+              "decimal": 0.07278550112817526,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -1.137955123532361,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 0.026888911244803602,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -1.5704267823786573,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "5": {
+            "coefficient_error": {
+              "decimal": 0.024040940760477462,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -1.6190485416988274,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 0.00888136665036747,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -2.0515202005451254,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "50": {
+            "coefficient_error": {
+              "decimal": 1.0009967705968613e-12,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -11.999567323633798,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 3.6979498531603794e-13,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -12.43203898248008,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "500": {
+            "coefficient_error": {
+              "decimal": 1.988007672346164e-116,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -115.70158194385658,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 7.344232165355256e-117,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -116.13405360270292,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "99": {
+            "coefficient_error": {
+              "decimal": 5.1101721272114926e-24,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -23.291564471168783,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 1.887834289033545e-24,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -23.724036130015065,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          }
+        },
+        "terminal_status": "DEFINED_THROUGH_1000"
+      },
+      "plus_full": {
+        "classification_arithmetic": "exact_rational",
+        "horizons": {
+          "0": {
+            "coefficient_error": {
+              "decimal": 1.0,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": 0.0,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "1": {
+            "coefficient_error": {
+              "decimal": 0.22727272727272727,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -0.6434526764861874,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 0.08396062536189924,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -1.075924335332484,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "10": {
+            "coefficient_error": {
+              "decimal": 0.0024863327526173187,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -2.6044407490029613,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 0.0009185178321770986,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -3.0369124078492575,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "100": {
+            "coefficient_error": {
+              "decimal": 4.5089754063630816e-24,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -23.34592213349137,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 1.6657361373825397e-24,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -23.778393792337653,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "1000": {
+            "coefficient_error": {
+              "decimal": 1.778478527388246e-231,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -230.74995137393796,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 6.570175451497979e-232,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -231.1824230327843,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "2": {
+            "coefficient_error": {
+              "decimal": 0.20920502092050208,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -0.6794278966121183,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 0.07728593129547211,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -1.1118995554584163,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "20": {
+            "coefficient_error": {
+              "decimal": 1.2302600449433081e-05,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -4.910003080310837,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 4.544909720172731e-06,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -5.342474739157133,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "200": {
+            "coefficient_error": {
+              "decimal": 4.066171843037423e-47,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -46.39081427131876,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 1.5021526553896212e-47,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -46.82328593016507,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "3": {
+            "coefficient_error": {
+              "decimal": 0.09237021984112322,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -1.0344680227550427,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 0.034124030259778004,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -1.466939681601339,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "5": {
+            "coefficient_error": {
+              "decimal": 0.03401691457060108,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -1.4683050806626206,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 0.012566758249011866,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -1.9007767395089168,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "50": {
+            "coefficient_error": {
+              "decimal": 1.5014951558990495e-12,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -11.823476064577022,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 5.54692477975445e-13,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -12.255947723423319,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "500": {
+            "coefficient_error": {
+              "decimal": 2.982011508519246e-116,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -115.52549068480096,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 1.1016348248032884e-116,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -115.95796234364718,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "99": {
+            "coefficient_error": {
+              "decimal": 7.665258190817239e-24,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -23.115473212113102,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 2.8317514335503175e-24,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -23.547944870959384,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          }
+        },
+        "terminal_status": "DEFINED_THROUGH_1000"
+      },
+      "plus_quarter": {
+        "classification_arithmetic": "exact_rational",
+        "horizons": {
+          "0": {
+            "coefficient_error": {
+              "decimal": 0.25,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -0.6020599913279625,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "1": {
+            "coefficient_error": {
+              "decimal": 0.10526315789473684,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -0.9777236052888476,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 0.038887026483405966,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -1.4101952641351447,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "10": {
+            "coefficient_error": {
+              "decimal": 0.0009930516669162304,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -3.0030281552580114,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 0.00036685985147223796,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -3.435499814104311,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "100": {
+            "coefficient_error": {
+              "decimal": 1.8035901625452326e-24,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -23.743862142163408,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 6.6629445495301585e-25,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -24.17633380100969,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "1000": {
+            "coefficient_error": {
+              "decimal": 7.113914109552985e-232,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -231.14789138261006,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 2.628070180599192e-232,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -231.5803630414564,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "2": {
+            "coefficient_error": {
+              "decimal": 0.07434944237918216,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -1.1287222843384264,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 0.027466672980844365,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -1.5611939431847244,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "20": {
+            "coefficient_error": {
+              "decimal": 4.921003855086689e-06,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -5.307946294741939,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 1.81795046875814e-06,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -5.740417953588235,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "200": {
+            "coefficient_error": {
+              "decimal": 1.6264687372149691e-47,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -46.7887542799908,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 6.008610621558485e-48,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -47.22122593883711,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "3": {
+            "coefficient_error": {
+              "decimal": 0.03911597887737141,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -1.407645797062555,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 0.014450489012022557,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -1.8401174559088513,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "5": {
+            "coefficient_error": {
+              "decimal": 0.013890268269696226,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -1.8572893664349088,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 0.0051314366856202625,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -2.289761025281207,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "50": {
+            "coefficient_error": {
+              "decimal": 6.005980623590787e-13,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -12.221416073249458,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 2.2187699118997813e-13,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -12.65388773209574,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "500": {
+            "coefficient_error": {
+              "decimal": 1.1928046034076986e-116,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -115.92343069347305,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 4.406539299213154e-117,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -116.35590235231928,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          },
+          "99": {
+            "coefficient_error": {
+              "decimal": 3.0661032763268952e-24,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -23.51341322078514,
+              "sign": 1
+            },
+            "price_error": {
+              "decimal": 1.132700573420127e-24,
+              "exact_representation": "closed_form_rational",
+              "exact_zero": false,
+              "log10_absolute": -23.94588487963142,
+              "sign": 1
+            },
+            "status": "DEFINED"
+          }
+        },
+        "terminal_status": "DEFINED_THROUGH_1000"
+      },
+      "projector_direction_starts": {
+        "reason": "the scalar w chart applies only to the shared private-map core",
+        "terminal_status": "NOT_APPLICABLE"
+      }
+    }
+  },
+  "price_error_normalization": "article/updater-H fixed-price sup norm on [0.5,1.5] for both private branches; corresponding partial fixed-price sup norm for the partial branch",
+  "private_scalar_starts": {
+    "-1/2": {
+      "applicable_branches": [
+        "article_updater_H",
+        "deposited_D"
+      ],
+      "classification_arithmetic": "exact_rational",
+      "coefficient_error": {
+        "reason": "a full-vector e/q completion is not defined for this diagnostic",
+        "status": "NOT_APPLICABLE"
+      },
+      "estimand_scope": "scalar_chart_domain_safety_only",
+      "full_vector_completion": "SCALAR_REDUCTION_ONLY",
+      "price_error": {
+        "reason": "a full-vector e/q completion is not defined for this diagnostic",
+        "status": "NOT_APPLICABLE"
+      },
+      "status": "DEFINED_THROUGH_1000",
+      "terminal_k": null
+    },
+    "-2": {
+      "applicable_branches": [
+        "article_updater_H",
+        "deposited_D"
+      ],
+      "classification_arithmetic": "exact_rational",
+      "coefficient_error": {
+        "reason": "a full-vector e/q completion is not defined for this diagnostic",
+        "status": "NOT_APPLICABLE"
+      },
+      "estimand_scope": "scalar_chart_domain_safety_only",
+      "full_vector_completion": "SCALAR_REDUCTION_ONLY",
+      "price_error": {
+        "reason": "a full-vector e/q completion is not defined for this diagnostic",
+        "status": "NOT_APPLICABLE"
+      },
+      "status": "DEFINED_THROUGH_1000",
+      "terminal_k": null
+    },
+    "-4": {
+      "applicable_branches": [
+        "article_updater_H",
+        "deposited_D"
+      ],
+      "classification_arithmetic": "exact_rational",
+      "coefficient_error": {
+        "reason": "a full-vector e/q completion is not defined for this diagnostic",
+        "status": "NOT_APPLICABLE"
+      },
+      "estimand_scope": "scalar_chart_domain_safety_only",
+      "full_vector_completion": "SCALAR_REDUCTION_ONLY",
+      "price_error": {
+        "reason": "a full-vector e/q completion is not defined for this diagnostic",
+        "status": "NOT_APPLICABLE"
+      },
+      "status": "DEFINED_THROUGH_1000",
+      "terminal_k": null
+    },
+    "0": {
+      "applicable_branches": [
+        "article_updater_H",
+        "deposited_D"
+      ],
+      "classification_arithmetic": "exact_rational",
+      "coefficient_error": {
+        "reason": "a full-vector e/q completion is not defined for this diagnostic",
+        "status": "NOT_APPLICABLE"
+      },
+      "estimand_scope": "scalar_chart_domain_safety_only",
+      "full_vector_completion": "SCALAR_REDUCTION_ONLY",
+      "price_error": {
+        "reason": "a full-vector e/q completion is not defined for this diagnostic",
+        "status": "NOT_APPLICABLE"
+      },
+      "status": "DEFINED_THROUGH_1000",
+      "terminal_k": null
+    },
+    "1/2": {
+      "applicable_branches": [
+        "article_updater_H",
+        "deposited_D"
+      ],
+      "classification_arithmetic": "exact_rational",
+      "coefficient_error": {
+        "reason": "a full-vector e/q completion is not defined for this diagnostic",
+        "status": "NOT_APPLICABLE"
+      },
+      "estimand_scope": "scalar_chart_domain_safety_only",
+      "full_vector_completion": "SCALAR_REDUCTION_ONLY",
+      "price_error": {
+        "reason": "a full-vector e/q completion is not defined for this diagnostic",
+        "status": "NOT_APPLICABLE"
+      },
+      "status": "DEFINED_THROUGH_1000",
+      "terminal_k": null
+    },
+    "2": {
+      "applicable_branches": [
+        "article_updater_H",
+        "deposited_D"
+      ],
+      "classification_arithmetic": "exact_rational",
+      "coefficient_error": {
+        "reason": "a full-vector e/q completion is not defined for this diagnostic",
+        "status": "NOT_APPLICABLE"
+      },
+      "estimand_scope": "scalar_chart_domain_safety_only",
+      "full_vector_completion": "SCALAR_REDUCTION_ONLY",
+      "price_error": {
+        "reason": "a full-vector e/q completion is not defined for this diagnostic",
+        "status": "NOT_APPLICABLE"
+      },
+      "status": "DEFINED_THROUGH_1000",
+      "terminal_k": null
+    },
+    "4": {
+      "applicable_branches": [
+        "article_updater_H",
+        "deposited_D"
+      ],
+      "classification_arithmetic": "exact_rational",
+      "coefficient_error": {
+        "reason": "a full-vector e/q completion is not defined for this diagnostic",
+        "status": "NOT_APPLICABLE"
+      },
+      "estimand_scope": "scalar_chart_domain_safety_only",
+      "full_vector_completion": "SCALAR_REDUCTION_ONLY",
+      "price_error": {
+        "reason": "a full-vector e/q completion is not defined for this diagnostic",
+        "status": "NOT_APPLICABLE"
+      },
+      "status": "DEFINED_THROUGH_1000",
+      "terminal_k": null
+    }
+  },
+  "schema": "learning-from-prices-starting-values-v1"
+}

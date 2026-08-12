@@ -1,0 +1,14 @@
+{
+  "files": {
+    "boundary_pole_diagnostics.json": "1b1dbf7ccfdc02389c9987d15a0c586de15db2b3f208df80fcc9ce60ac470f65",
+    "finite_horizon_sensitivity.json": "7dfa7e6548b5ee6b0437ff08989aa53703a92b9281e1d3d7423c4cff69f4c76c",
+    "finite_pole_certificate.json": "3097c73951d2e9708dee1390dd3a76c42a48d9f802c1b640af3d548b5506f5a9",
+    "persistence_certificate.json": "4ea65700590aa617e5e1d02a618d6c78e483a1483b95e917bd0c21478c61820c",
+    "price_gap_grid.json": "e08a1b080bae026b0bef32f2d137e993c10775f0a8e15ac6c30d9f2140582968",
+    "source_sweep_cells.csv": "b47dd2f45dced8b69f0ec62b8b5a11cdee07be1447000c3c11efa83eaa30e5f1",
+    "stability_grid.json": "9e9612c7c3fb0918271c556b0a20216bd621d52632d69c9f4b713c69c2e9d0de",
+    "stability_grid_cells.csv": "90ac1aa2661ce8db89c481b30f47616d5a4d69c5f8c9fc0013557121fea48f2e",
+    "starting_value_sensitivity.json": "b190dac8a2457592245471642d3d4737a52720e99166e90cc63eb69c05a16f89"
+  },
+  "schema": "learning-from-prices-results-manifest-v1"
+}

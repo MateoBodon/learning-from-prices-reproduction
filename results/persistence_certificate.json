@@ -1,0 +1,39 @@
+{
+  "definition": "persistent at a listed K means inside the band at every integer iterate K through 1000",
+  "guard_scope": "exact proof-domain and implementation-consistency check based on the same derived error identity",
+  "proof": "for stable cells, positivity implies 0<=delta<1 and 0<=epsilon<1, so the exact even and odd error subsequences are separately decreasing and their suffix maxima occur at K and K+1",
+  "schema": "learning-from-prices-persistence-certificate-v1",
+  "status": "PASS",
+  "surfaces": {
+    "deposited_sweep": {
+      "minimum_unstable_k1000_error": {
+        "decimal": 2.4708397100919735,
+        "exact_representation": "closed_form_rational",
+        "exact_zero": false,
+        "log10_absolute": 0.39284457248413673,
+        "sign": 1
+      },
+      "persistent_classifier_mismatches": 0,
+      "stable_cell_band_checks": 244,
+      "stable_cells": 61,
+      "stable_delta_greater_or_equal_one": 0,
+      "unstable_cells": 39,
+      "unstable_k1000_above_largest_band": 39
+    },
+    "prespecified_grid": {
+      "minimum_unstable_k1000_error": {
+        "decimal": 1.0,
+        "exact_representation": "closed_form_rational",
+        "exact_zero": false,
+        "log10_absolute": 0.0,
+        "sign": 1
+      },
+      "persistent_classifier_mismatches": 0,
+      "stable_cell_band_checks": 25068,
+      "stable_cells": 6267,
+      "stable_delta_greater_or_equal_one": 0,
+      "unstable_cells": 1833,
+      "unstable_k1000_above_largest_band": 1833
+    }
+  }
+}

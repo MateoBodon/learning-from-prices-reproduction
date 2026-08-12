@@ -1,0 +1,260 @@
+{
+  "creator": {
+    "name": "Mateo Bodon",
+    "orcid": "https://orcid.org/0009-0004-5012-835X"
+  },
+  "entries": [
+    {
+      "bytes": 659,
+      "path": ".github/workflows/reproduce.yml",
+      "sha256": "bfb305616dcb8005f1bb5ae258b8795521879cd6807a59633aa86b782cde14b8"
+    },
+    {
+      "bytes": 60,
+      "path": ".gitignore",
+      "sha256": "93d32536ca5f097af614d13e99d6568ac488be82092b4ec84c14c5f9f0edbd21"
+    },
+    {
+      "bytes": 7,
+      "path": ".python-version",
+      "sha256": "657062bd6c016c431fe7658173ba3611697eeb21357fd82faef0b7d21a491c3f"
+    },
+    {
+      "bytes": 795,
+      "path": "CITATION.cff",
+      "sha256": "8dbd395534bc6a14b524a95dcbc97861495d71e54012b6a044e71eba40cbd796"
+    },
+    {
+      "bytes": 672,
+      "path": "ENVIRONMENT.md",
+      "sha256": "61c2ebb5d46b14e8f6020220e06c1c94e1c397e187e10d5537c5ee023886eaf4"
+    },
+    {
+      "bytes": 1519,
+      "path": "LICENSE",
+      "sha256": "32fa546ea6d5f2764a6830e5dd29a8469f34e9b8957645340080dd83ab909a25"
+    },
+    {
+      "bytes": 971,
+      "path": "Makefile",
+      "sha256": "597c9814ca1b6a32687dba09e13146af9a3fd2d94a5d229783f0909b074423f7"
+    },
+    {
+      "bytes": 753,
+      "path": "NOTICE.md",
+      "sha256": "109c18533e4e81fbafeb5d9ce2f61c0075f1e70ada0ccbe5cb720bc0b03dea58"
+    },
+    {
+      "bytes": 1776,
+      "path": "PROVENANCE.md",
+      "sha256": "34292bcea11717c33718dc0908f376b0b7e7e0abbd02c1946ca33ed08d622e96"
+    },
+    {
+      "bytes": 3652,
+      "path": "README.md",
+      "sha256": "0310e2c4dc373309c55d8cf367fa081fc086275f7941410a3f3efe230b72bc17"
+    },
+    {
+      "bytes": 1274,
+      "path": "RESULTS.md",
+      "sha256": "fa5b0abc9b77baff0c5052a6376693d653b038224db4e3f895e8e62afcebb5c8"
+    },
+    {
+      "bytes": 1470,
+      "path": "docs/FIGURE_DESCRIPTIONS.md",
+      "sha256": "6c0800e3b6f224f8b375cf4c8903c2f494d0429aac51c8900964234aaf73410d"
+    },
+    {
+      "bytes": 20249,
+      "path": "figures/Fig1_stability_regions.pdf",
+      "sha256": "21e95621c44210c884a9d549dcaefa840798a6bf58e19a9c792a48bc679c50d1"
+    },
+    {
+      "bytes": 111490,
+      "path": "figures/Fig1_stability_regions.png",
+      "sha256": "18c0a457ea77e19f203b1766e31e8a0895f50a9a99c7f50f64b96c2e4168b642"
+    },
+    {
+      "bytes": 22948,
+      "path": "figures/Fig2_finite_iteration_error.pdf",
+      "sha256": "5d7b0aac3bb722c1b17bffba77fdc7f826e0989ea2b4a3f19459a952dea44400"
+    },
+    {
+      "bytes": 207274,
+      "path": "figures/Fig2_finite_iteration_error.png",
+      "sha256": "bbba497d060c74606118d548e7dba9ab3a12d986c5109c36755797c2350fbff2"
+    },
+    {
+      "bytes": 22381,
+      "path": "figures/Fig3_pole_geometry.pdf",
+      "sha256": "437a8d63e6cb6879206c90bac3319ffa23903324b91c9ba47fcdee56581df09f"
+    },
+    {
+      "bytes": 147764,
+      "path": "figures/Fig3_pole_geometry.png",
+      "sha256": "600783952b3d6fa95fd31426505f9d43ca1a8dc3a782d8635cba9704f36381d1"
+    },
+    {
+      "bytes": 18878,
+      "path": "figures/Fig4_private_map_paths.pdf",
+      "sha256": "88cbd6e52881164e99520d7d24434a67bc91e829dbbd7329837756b1936f3ecc"
+    },
+    {
+      "bytes": 182415,
+      "path": "figures/Fig4_private_map_paths.png",
+      "sha256": "41bf7b4f3f0c3acc6d6a5c52aa4832d78043c0af2218f66c2e7259417347ad3b"
+    },
+    {
+      "bytes": 1343,
+      "path": "provenance/recorded_source_checks.json",
+      "sha256": "a6a14023e13200bd0bbba1d21e1533d1ee01d9542d91321883a7eb88bb5da071"
+    },
+    {
+      "bytes": 668,
+      "path": "references.bib",
+      "sha256": "7c6e7565772f74d48452adf4bf45e24aa0a0b87000cb5d634bfc6b5b979d4560"
+    },
+    {
+      "bytes": 3678,
+      "path": "replication/build_release.py",
+      "sha256": "d16542c8dbc22e0e9d2d0cf17ec35191793b617f70640e89c81cd18c0271ad90"
+    },
+    {
+      "bytes": 4596,
+      "path": "replication/check_theory.py",
+      "sha256": "0302638c5716dc8ea36f8878ddda1a244e2bd2f5ad29081bbdbd80a68b14ba39"
+    },
+    {
+      "bytes": 2205,
+      "path": "replication/clean_generated.py",
+      "sha256": "83c01389d7fa1bebd5deaec33a76e9f4024e147abff73c4e6872aedb0dd362d7"
+    },
+    {
+      "bytes": 2082,
+      "path": "replication/file_inventory.py",
+      "sha256": "6b695ecd1044468697e05c75cc210d49192469c9eaa993f7e4259d04c8225b76"
+    },
+    {
+      "bytes": 14505,
+      "path": "replication/render_assets.py",
+      "sha256": "ecad55769f921e9a5909ea9d0635c8b97b9f0cdec0274d95c9614cd8a249b865"
+    },
+    {
+      "bytes": 54943,
+      "path": "replication/run_analysis.py",
+      "sha256": "55bbea050844da170863cc9e8dc7b74551044511965c08499ff467adaa9383be"
+    },
+    {
+      "bytes": 4193,
+      "path": "replication/verify_release.py",
+      "sha256": "a034b6048ed78c78d7a2044bc873226de8802d3c703117931f76ebdb4e92fb63"
+    },
+    {
+      "bytes": 20317,
+      "path": "replication/verify_reproduction.py",
+      "sha256": "6f318cff5f0eb4744a8a4d1ec33a66e76c5941cbb682a541a6385326bea654dd"
+    },
+    {
+      "bytes": 59,
+      "path": "requirements.txt",
+      "sha256": "96906c7774f5448877cb78f07c19ccf0c338f812e8b660090037abdbd47f726a"
+    },
+    {
+      "bytes": 992,
+      "path": "results/RESULTS_MANIFEST.json",
+      "sha256": "a800f385f4d85c9e60fadf350cfff399cad5f7bd823f6ae7ea403393cab9bc3b"
+    },
+    {
+      "bytes": 901505,
+      "path": "results/boundary_pole_diagnostics.json",
+      "sha256": "1b1dbf7ccfdc02389c9987d15a0c586de15db2b3f208df80fcc9ce60ac470f65"
+    },
+    {
+      "bytes": 21409,
+      "path": "results/finite_horizon_sensitivity.json",
+      "sha256": "7dfa7e6548b5ee6b0437ff08989aa53703a92b9281e1d3d7423c4cff69f4c76c"
+    },
+    {
+      "bytes": 394,
+      "path": "results/finite_pole_certificate.json",
+      "sha256": "3097c73951d2e9708dee1390dd3a76c42a48d9f802c1b640af3d548b5506f5a9"
+    },
+    {
+      "bytes": 1500,
+      "path": "results/persistence_certificate.json",
+      "sha256": "4ea65700590aa617e5e1d02a618d6c78e483a1483b95e917bd0c21478c61820c"
+    },
+    {
+      "bytes": 15385,
+      "path": "results/price_gap_grid.json",
+      "sha256": "e08a1b080bae026b0bef32f2d137e993c10775f0a8e15ac6c30d9f2140582968"
+    },
+    {
+      "bytes": 15695,
+      "path": "results/source_sweep_cells.csv",
+      "sha256": "b47dd2f45dced8b69f0ec62b8b5a11cdee07be1447000c3c11efa83eaa30e5f1"
+    },
+    {
+      "bytes": 25171350,
+      "path": "results/stability_grid.json",
+      "sha256": "9e9612c7c3fb0918271c556b0a20216bd621d52632d69c9f4b713c69c2e9d0de"
+    },
+    {
+      "bytes": 985502,
+      "path": "results/stability_grid_cells.csv",
+      "sha256": "90ac1aa2661ce8db89c481b30f47616d5a4d69c5f8c9fc0013557121fea48f2e"
+    },
+    {
+      "bytes": 128094,
+      "path": "results/starting_value_sensitivity.json",
+      "sha256": "b190dac8a2457592245471642d3d4737a52720e99166e90cc63eb69c05a16f89"
+    },
+    {
+      "bytes": 373,
+      "path": "tables/table1_source_custody.csv",
+      "sha256": "cf3a57cba8b73333f63d209df914f4c842c79ee4d79915eaa3f16e383c810fd0"
+    },
+    {
+      "bytes": 531,
+      "path": "tables/table1_source_custody.tex",
+      "sha256": "733b162582c92ae9f82273b61bb0a522c049902c72118848ef9e2af02f10be19"
+    },
+    {
+      "bytes": 406,
+      "path": "tables/table2_private_identities.csv",
+      "sha256": "44ce3da75adef13b920ea5cb5f4801180080eab3fb6daf696d1cd0fc50a8d99a"
+    },
+    {
+      "bytes": 576,
+      "path": "tables/table2_private_identities.tex",
+      "sha256": "9289bad8aff46081f0b4e2789eb5f60fdd1ec6367a2d502b00c35e4a24894130"
+    },
+    {
+      "bytes": 520,
+      "path": "tables/table3_stability_horizon.csv",
+      "sha256": "c66e6e3a37dd44d6a3eee8c07bb7a8c10504b740dba258acb2fbafe810430f0a"
+    },
+    {
+      "bytes": 691,
+      "path": "tables/table3_stability_horizon.tex",
+      "sha256": "48dd33d934e0e0730baf6c3e67ec2dc4597b4d33385a547e3518dc3c7851ef16"
+    },
+    {
+      "bytes": 590,
+      "path": "tables/table4_claim_boundary.csv",
+      "sha256": "a8821cddbbc36d073a7564a4e8da9d9bb0fdf1f3e610b3042f491ea141582012"
+    },
+    {
+      "bytes": 760,
+      "path": "tables/table4_claim_boundary.tex",
+      "sha256": "08d7f2f02964f4957ca6c2df55daec5f8d1be2c10d9db8ebc9c35f9aef0c4b25"
+    }
+  ],
+  "license": "BSD-3-Clause",
+  "release_date": "2026-08-12",
+  "schema": "learning-from-prices-public-release-manifest-v1",
+  "scope": "independent code, documentation, and lawful derived results; no manuscript or third-party source files",
+  "status": "PASS",
+  "tag": "v1.0.0",
+  "version": "1.0.0"
+}

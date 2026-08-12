@@ -1,0 +1,26 @@
+name: Reproduce
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  reproduce:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12.2"
+          cache: pip
+      - name: Install system checks
+        run: sudo apt-get update && sudo apt-get install -y poppler-utils qpdf
+      - name: Install Python dependencies
+        run: python -m pip install --upgrade pip && python -m pip install -r requirements.txt
+      - name: Rebuild and verify
+        run: make rebuild
+      - name: Build and verify release archive
+        run: make release

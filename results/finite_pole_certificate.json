@@ -1,0 +1,9 @@
+{
+  "deposited_sweep_cells_checked": 100,
+  "exact_finite_poles": 0,
+  "maximum_monotone_crossing_exponent_checked": 416,
+  "prespecified_grid_cells_checked": 8100,
+  "proof_method": "exact rational monotone power scan of 1 + delta*(-epsilon)^(K-1); at most one positive-magnitude crossing when epsilon != 1",
+  "schema": "learning-from-prices-finite-pole-certificate-v1",
+  "status": "PASS"
+}

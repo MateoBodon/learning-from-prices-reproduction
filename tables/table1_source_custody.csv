@@ -1,0 +1,6 @@
+Check,Result,Bound
+Zenodo v1 archive,SHA-256 verified,812151e7...d367c6
+Recorded unmodified R2023b execution,normal return; 11 figures,not rerun
+MATLAB objects 10--11 finite orbits,maximum $4.44\times10^{-16}$,online appendix Fig. 6/8 routines
+Deposited-$D$ coefficients,maximum $4.94\times10^{-13}$,within tolerance
+Source diagnostics,7 fsolve non-success blocks,reported

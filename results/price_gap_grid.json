@@ -1,0 +1,418 @@
+{
+  "finite_paths": {
+    "1": {
+      "absolute_sup": {
+        "classification_arithmetic": "display_only_not_used_for_classification",
+        "exact_zero": false,
+        "log10_absolute": -0.6009220980398217,
+        "scientific": "0.250655882893571512"
+      },
+      "exact_rational_metrics": {
+        "absolute_sup": {
+          "decimal": 0.2506558828935715,
+          "denominator": 59843,
+          "numerator": 15000,
+          "rational": "15000/59843"
+        },
+        "gap_at_x_1": {
+          "decimal": 0.2506558828935715,
+          "denominator": 59843,
+          "numerator": 15000,
+          "rational": "15000/59843"
+        },
+        "relative_normalization": "article_updater_H_fixed_price_sup_norm",
+        "relative_sup": {
+          "decimal": 0.2340507665474672,
+          "denominator": 3204433,
+          "numerator": 750000,
+          "rational": "750000/3204433"
+        },
+        "rms": {
+          "decimal": 0.2506558828935715,
+          "denominator": 59843,
+          "numerator": 15000,
+          "rational": "15000/59843"
+        },
+        "rms_squared_exact": {
+          "decimal": 0.06282837162915583,
+          "denominator": 3581184649,
+          "numerator": 225000000,
+          "rational": "225000000/3581184649"
+        }
+      },
+      "gap_at_x_1": {
+        "classification_arithmetic": "display_only_not_used_for_classification",
+        "exact_zero": false,
+        "log10_absolute": -0.6009220980398217,
+        "scientific": "0.250655882893571512"
+      },
+      "reason_metrics_coincide": "the two paths differ only in q, so the price gap is constant on the prespecified grid",
+      "relative_sup": {
+        "classification_arithmetic": "display_only_not_used_for_classification",
+        "exact_zero": false,
+        "log10_absolute": -0.6306899321618756,
+        "scientific": "0.234050766547467212"
+      },
+      "rms": {
+        "classification_arithmetic": "display_only_not_used_for_classification",
+        "exact_zero": false,
+        "log10_absolute": -0.6009220980398217,
+        "scientific": "0.250655882893571512"
+      }
+    },
+    "10": {
+      "absolute_sup": {
+        "classification_arithmetic": "display_only_not_used_for_classification",
+        "exact_zero": false,
+        "log10_absolute": -2.009582058219287,
+        "scientific": "0.00978178114448929274"
+      },
+      "gap_at_x_1": {
+        "classification_arithmetic": "display_only_not_used_for_classification",
+        "exact_zero": false,
+        "log10_absolute": -2.009582058219287,
+        "scientific": "0.00978178114448929274"
+      },
+      "reason_metrics_coincide": "the two paths differ only in q, so the price gap is constant on the prespecified grid",
+      "relative_sup": {
+        "classification_arithmetic": "display_only_not_used_for_classification",
+        "exact_zero": false,
+        "log10_absolute": -2.0393498923413413,
+        "scientific": "0.00913377076427674952"
+      },
+      "rms": {
+        "classification_arithmetic": "display_only_not_used_for_classification",
+        "exact_zero": false,
+        "log10_absolute": -2.009582058219287,
+        "scientific": "0.00978178114448929274"
+      }
+    },
+    "100": {
+      "absolute_sup": {
+        "classification_arithmetic": "display_only_not_used_for_classification",
+        "exact_zero": false,
+        "log10_absolute": -1.3684021935063142,
+        "scientific": "0.0428151831850539463"
+      },
+      "gap_at_x_1": {
+        "classification_arithmetic": "display_only_not_used_for_classification",
+        "exact_zero": false,
+        "log10_absolute": -1.3684021935063142,
+        "scientific": "0.0428151831850539463"
+      },
+      "reason_metrics_coincide": "the two paths differ only in q, so the price gap is constant on the prespecified grid",
+      "relative_sup": {
+        "classification_arithmetic": "display_only_not_used_for_classification",
+        "exact_zero": false,
+        "log10_absolute": -1.3981700276283682,
+        "scientific": "0.03997882008054441"
+      },
+      "rms": {
+        "classification_arithmetic": "display_only_not_used_for_classification",
+        "exact_zero": false,
+        "log10_absolute": -1.3684021935063142,
+        "scientific": "0.0428151831850539463"
+      }
+    },
+    "1000": {
+      "absolute_sup": {
+        "classification_arithmetic": "display_only_not_used_for_classification",
+        "exact_zero": false,
+        "log10_absolute": -1.3684021854748007,
+        "scientific": "0.0428151839768455485"
+      },
+      "gap_at_x_1": {
+        "classification_arithmetic": "display_only_not_used_for_classification",
+        "exact_zero": false,
+        "log10_absolute": -1.3684021854748007,
+        "scientific": "0.0428151839768455485"
+      },
+      "reason_metrics_coincide": "the two paths differ only in q, so the price gap is constant on the prespecified grid",
+      "relative_sup": {
+        "classification_arithmetic": "display_only_not_used_for_classification",
+        "exact_zero": false,
+        "log10_absolute": -1.3981700195968547,
+        "scientific": "0.0399788208198824591"
+      },
+      "rms": {
+        "classification_arithmetic": "display_only_not_used_for_classification",
+        "exact_zero": false,
+        "log10_absolute": -1.3684021854748007,
+        "scientific": "0.0428151839768455485"
+      }
+    },
+    "2": {
+      "absolute_sup": {
+        "classification_arithmetic": "display_only_not_used_for_classification",
+        "exact_zero": false,
+        "log10_absolute": -1.2005271673709004,
+        "scientific": "0.0630191922986582"
+      },
+      "gap_at_x_1": {
+        "classification_arithmetic": "display_only_not_used_for_classification",
+        "exact_zero": false,
+        "log10_absolute": -1.2005271673709004,
+        "scientific": "0.0630191922986582"
+      },
+      "reason_metrics_coincide": "the two paths differ only in q, so the price gap is constant on the prespecified grid",
+      "relative_sup": {
+        "classification_arithmetic": "display_only_not_used_for_classification",
+        "exact_zero": false,
+        "log10_absolute": -1.2302950014929543,
+        "scientific": "0.0588443809673755492"
+      },
+      "rms": {
+        "classification_arithmetic": "display_only_not_used_for_classification",
+        "exact_zero": false,
+        "log10_absolute": -1.2005271673709004,
+        "scientific": "0.0630191922986582"
+      }
+    },
+    "20": {
+      "absolute_sup": {
+        "classification_arithmetic": "display_only_not_used_for_classification",
+        "exact_zero": false,
+        "log10_absolute": -1.4211626934549892,
+        "scientific": "0.037917291430435496"
+      },
+      "gap_at_x_1": {
+        "classification_arithmetic": "display_only_not_used_for_classification",
+        "exact_zero": false,
+        "log10_absolute": -1.4211626934549892,
+        "scientific": "0.037917291430435496"
+      },
+      "reason_metrics_coincide": "the two paths differ only in q, so the price gap is constant on the prespecified grid",
+      "relative_sup": {
+        "classification_arithmetic": "display_only_not_used_for_classification",
+        "exact_zero": false,
+        "log10_absolute": -1.4509305275770432,
+        "scientific": "0.0354053973210167194"
+      },
+      "rms": {
+        "classification_arithmetic": "display_only_not_used_for_classification",
+        "exact_zero": false,
+        "log10_absolute": -1.4211626934549892,
+        "scientific": "0.037917291430435496"
+      }
+    },
+    "200": {
+      "absolute_sup": {
+        "classification_arithmetic": "display_only_not_used_for_classification",
+        "exact_zero": false,
+        "log10_absolute": -1.3684021854748007,
+        "scientific": "0.042815183976845546"
+      },
+      "gap_at_x_1": {
+        "classification_arithmetic": "display_only_not_used_for_classification",
+        "exact_zero": false,
+        "log10_absolute": -1.3684021854748007,
+        "scientific": "0.042815183976845546"
+      },
+      "reason_metrics_coincide": "the two paths differ only in q, so the price gap is constant on the prespecified grid",
+      "relative_sup": {
+        "classification_arithmetic": "display_only_not_used_for_classification",
+        "exact_zero": false,
+        "log10_absolute": -1.3981700195968547,
+        "scientific": "0.0399788208198824567"
+      },
+      "rms": {
+        "classification_arithmetic": "display_only_not_used_for_classification",
+        "exact_zero": false,
+        "log10_absolute": -1.3684021854748007,
+        "scientific": "0.042815183976845546"
+      }
+    },
+    "3": {
+      "absolute_sup": {
+        "classification_arithmetic": "display_only_not_used_for_classification",
+        "exact_zero": false,
+        "log10_absolute": -0.6971983699042403,
+        "scientific": "0.200817534172383994"
+      },
+      "gap_at_x_1": {
+        "classification_arithmetic": "display_only_not_used_for_classification",
+        "exact_zero": false,
+        "log10_absolute": -0.6971983699042403,
+        "scientific": "0.200817534172383994"
+      },
+      "reason_metrics_coincide": "the two paths differ only in q, so the price gap is constant on the prespecified grid",
+      "relative_sup": {
+        "classification_arithmetic": "display_only_not_used_for_classification",
+        "exact_zero": false,
+        "log10_absolute": -0.7269662040262943,
+        "scientific": "0.187514042226471506"
+      },
+      "rms": {
+        "classification_arithmetic": "display_only_not_used_for_classification",
+        "exact_zero": false,
+        "log10_absolute": -0.6971983699042403,
+        "scientific": "0.200817534172383994"
+      }
+    },
+    "5": {
+      "absolute_sup": {
+        "classification_arithmetic": "display_only_not_used_for_classification",
+        "exact_zero": false,
+        "log10_absolute": -0.8304690594839965,
+        "scientific": "0.14775117404615422"
+      },
+      "gap_at_x_1": {
+        "classification_arithmetic": "display_only_not_used_for_classification",
+        "exact_zero": false,
+        "log10_absolute": -0.8304690594839965,
+        "scientific": "0.14775117404615422"
+      },
+      "reason_metrics_coincide": "the two paths differ only in q, so the price gap is constant on the prespecified grid",
+      "relative_sup": {
+        "classification_arithmetic": "display_only_not_used_for_classification",
+        "exact_zero": false,
+        "log10_absolute": -0.8602368936060505,
+        "scientific": "0.137963151491137542"
+      },
+      "rms": {
+        "classification_arithmetic": "display_only_not_used_for_classification",
+        "exact_zero": false,
+        "log10_absolute": -0.8304690594839965,
+        "scientific": "0.14775117404615422"
+      }
+    },
+    "50": {
+      "absolute_sup": {
+        "classification_arithmetic": "display_only_not_used_for_classification",
+        "exact_zero": false,
+        "log10_absolute": -1.368543940250857,
+        "scientific": "0.042801211277060117"
+      },
+      "gap_at_x_1": {
+        "classification_arithmetic": "display_only_not_used_for_classification",
+        "exact_zero": false,
+        "log10_absolute": -1.368543940250857,
+        "scientific": "0.042801211277060117"
+      },
+      "reason_metrics_coincide": "the two paths differ only in q, so the price gap is constant on the prespecified grid",
+      "relative_sup": {
+        "classification_arithmetic": "display_only_not_used_for_classification",
+        "exact_zero": false,
+        "log10_absolute": -1.398311774372911,
+        "scientific": "0.0399657737648611874"
+      },
+      "rms": {
+        "classification_arithmetic": "display_only_not_used_for_classification",
+        "exact_zero": false,
+        "log10_absolute": -1.368543940250857,
+        "scientific": "0.042801211277060117"
+      }
+    },
+    "500": {
+      "absolute_sup": {
+        "classification_arithmetic": "display_only_not_used_for_classification",
+        "exact_zero": false,
+        "log10_absolute": -1.3684021854748007,
+        "scientific": "0.0428151839768455485"
+      },
+      "gap_at_x_1": {
+        "classification_arithmetic": "display_only_not_used_for_classification",
+        "exact_zero": false,
+        "log10_absolute": -1.3684021854748007,
+        "scientific": "0.0428151839768455485"
+      },
+      "reason_metrics_coincide": "the two paths differ only in q, so the price gap is constant on the prespecified grid",
+      "relative_sup": {
+        "classification_arithmetic": "display_only_not_used_for_classification",
+        "exact_zero": false,
+        "log10_absolute": -1.3981700195968547,
+        "scientific": "0.0399788208198824591"
+      },
+      "rms": {
+        "classification_arithmetic": "display_only_not_used_for_classification",
+        "exact_zero": false,
+        "log10_absolute": -1.3684021854748007,
+        "scientific": "0.0428151839768455485"
+      }
+    },
+    "99": {
+      "absolute_sup": {
+        "classification_arithmetic": "display_only_not_used_for_classification",
+        "exact_zero": false,
+        "log10_absolute": -1.3684021757084806,
+        "scientific": "0.0428151849396641394"
+      },
+      "gap_at_x_1": {
+        "classification_arithmetic": "display_only_not_used_for_classification",
+        "exact_zero": false,
+        "log10_absolute": -1.3684021757084806,
+        "scientific": "0.0428151849396641394"
+      },
+      "reason_metrics_coincide": "the two paths differ only in q, so the price gap is constant on the prespecified grid",
+      "relative_sup": {
+        "classification_arithmetic": "display_only_not_used_for_classification",
+        "exact_zero": false,
+        "log10_absolute": -1.3981700098305345,
+        "scientific": "0.0399788217189175291"
+      },
+      "rms": {
+        "classification_arithmetic": "display_only_not_used_for_classification",
+        "exact_zero": false,
+        "log10_absolute": -1.3684021757084806,
+        "scientific": "0.0428151849396641394"
+      }
+    }
+  },
+  "fixed_point": {
+    "absolute_sup": {
+      "decimal": 0.04281518397684555,
+      "denominator": 116781,
+      "numerator": 5000,
+      "rational": "5000/116781"
+    },
+    "gap_at_x_1": {
+      "decimal": 0.04281518397684555,
+      "denominator": 116781,
+      "numerator": 5000,
+      "rational": "5000/116781"
+    },
+    "relative_normalization": "article_updater_H_fixed_price_sup_norm",
+    "relative_sup": {
+      "decimal": 0.03997882081988246,
+      "denominator": 6253311,
+      "numerator": 250000,
+      "rational": "250000/6253311"
+    },
+    "rms": {
+      "decimal": 0.04281518397684555,
+      "denominator": 116781,
+      "numerator": 5000,
+      "rational": "5000/116781"
+    },
+    "rms_squared_exact": {
+      "decimal": 0.0018331399789711317,
+      "denominator": 13637801961,
+      "numerator": 25000000,
+      "rational": "25000000/13637801961"
+    }
+  },
+  "grid": {
+    "count": 101,
+    "start": {
+      "decimal": 0.5,
+      "denominator": 2,
+      "numerator": 1,
+      "rational": "1/2"
+    },
+    "step": {
+      "decimal": 0.01,
+      "denominator": 100,
+      "numerator": 1,
+      "rational": "1/100"
+    },
+    "stop": {
+      "decimal": 1.5,
+      "denominator": 2,
+      "numerator": 3,
+      "rational": "3/2"
+    }
+  },
+  "metric_arithmetic": "100-digit deterministic reporting; K=1 and fixed point additionally retain exact rational metrics",
+  "relative_normalization": "article_updater_H_fixed_price_sup_norm",
+  "schema": "learning-from-prices-price-gap-v1"
+}
