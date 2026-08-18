@@ -1,6 +1,6 @@
 """Exact file inventory for the public reproduction repository and release."""
 
-RELEASE_VERSION = "1.0.0"
+RELEASE_VERSION = "1.0.1"
 RELEASE_TAG = f"v{RELEASE_VERSION}"
 ARCHIVE_STEM = f"learning-from-prices-reproduction-{RELEASE_TAG}"
 

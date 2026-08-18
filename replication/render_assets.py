@@ -43,11 +43,24 @@ RED = "#b91c1c"
 GOLD = "#b45309"
 GREEN = "#047857"
 GRAY = "#64748b"
+FIGURE_TITLES = {
+    "Fig1_stability_regions": "Stability regions",
+    "Fig2_finite_iteration_error": "Finite-iteration error",
+    "Fig3_pole_geometry": "Pole geometry",
+    "Fig4_private_map_paths": "Private-map paths",
+}
 
 
 def save(fig, name):
     fig.tight_layout()
-    fig.savefig(FIG / f"{name}.pdf", bbox_inches="tight")
+    fig.savefig(
+        FIG / f"{name}.pdf",
+        bbox_inches="tight",
+        metadata={
+            "Title": FIGURE_TITLES[name],
+            "Subject": "Figure generated for the learning-from-prices analysis",
+        },
+    )
     fig.savefig(FIG / f"{name}.png", bbox_inches="tight")
     plt.close(fig)
 
@@ -226,7 +239,7 @@ def figure4():
         color=RED,
         ls=":",
         lw=1.4,
-        label="fixed-point raw gap",
+        label="fixed-point coefficient gap",
     )
     axs[1].set_xlabel("realization x")
     axs[1].set_ylabel("absolute price-function gap")
@@ -297,7 +310,7 @@ def tables():
                 f"{float(normalized_amplification):.6f}",
             ],
             [
-                "Raw-gap amplification",
+                "Raw coefficient-gap amplification",
                 f"${raw_amplification}$",
                 f"{float(raw_amplification):.6f}",
             ],

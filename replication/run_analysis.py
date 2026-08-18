@@ -154,7 +154,7 @@ def rel_price(
 ) -> F:
     # Difference and reference are affine in x, so their absolute maxima on
     # the specified interval occur at an endpoint.  This is exactly equivalent
-    # to enumerating all 101 points and avoids needless large-integer work.
+    # to enumerating all 101 points and avoids unnecessary large-integer work.
     grid = [F(1, 2), F(3, 2)]
     num = max(abs(price(v, x) - price(star, x)) for x in grid)
     normalization_star = star if normalization_star is None else normalization_star
@@ -572,7 +572,7 @@ def private_persistent_exact(
         rel_price(v, star, normalization_star) if price_metric else rel_coeff(v, star)
         for v in path
     ]
-    # By K=120 both exact scalar/fiber modes are deep inside every band and
+    # By K=120 both exact scalar/fiber modes are strictly within every band and
     # contract thereafter at the t>1 anchor; scan the exact finite prefix.
     if errors[-1] > F(1, 10**6):
         raise AssertionError("the exact path has not entered the certified tail region")
@@ -933,10 +933,10 @@ def run_starting_value_sensitivity() -> dict[str, Any]:
 
 
 def private_scalar_branch_diagnostics(start_w: F, paper: bool) -> dict[str, Any]:
-    """Boundary and pole diagnostics with exact classification and certified tail bounds.
+    """Classify one scalar start and certify the branch's finite tail.
 
-    The branch starts at its own exact fixed q loading.  Reporting both branches
-    exhausts the q-fiber ambiguity in the scalar-only boundary design.
+    Each branch begins at its own exact fixed q loading. Reporting both branches
+    resolves the q-fiber ambiguity in this scalar-only domain diagnostic.
     """
     t = F(152, 125)
     a, b = F(4, 25), F(8, 25)
@@ -997,7 +997,8 @@ def private_scalar_branch_diagnostics(start_w: F, paper: bool) -> dict[str, Any]
 
     # At K=200 the core is in a small invariant neighborhood.  These exact
     # rational inequalities certify that no later coefficient can leave a band
-    # or exceed the maximum already observed; no K>200 giant fraction is needed.
+    # or exceed the maximum already observed. Exact fractions beyond K=200 do
+    # not need to be constructed.
     w200 = start_w * (-F(1, 1) / t) ** 200
     u = abs(w200)
     assert u < 1 and len(errors) == 201
@@ -1335,7 +1336,7 @@ def run_stability_grid() -> dict[str, Any]:
 
 
 def expected_persistent_partial(a: F, b: F, c: F, h: F, band: F) -> int | str:
-    """Exact suffix-max consistency classifier for the specified K<=1000 rule."""
+    """Recheck the prescribed persistent-band rule through K=1000 exactly."""
     e = h * h + A * A * b * c
     hb = h + A * A * b * c
     p = b * e + a * h * hb

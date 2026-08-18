@@ -24,8 +24,8 @@ from one unmodified MATLAB R2023b Update 11 execution. That execution returned
 normally and created 11 MATLAB figure objects. Agreement is reported only for
 MATLAB objects 10 and 11, corresponding to the deposited online-appendix
 Figure 6 and Figure 8 routines, and for the deposited-denominator coefficient
-vector. MATLAB objects 1–9 were not independently reconstructed. Seven bounded
-solver calls printed non-success diagnostics. The retained execution is not
+vector. MATLAB objects 1–9 were not independently reconstructed. Seven
+nonlinear solves printed non-success diagnostics. The retained execution is not
 repeated by this repository, and no displayed figure or economic conclusion is
 claimed to change because the discrepant fixed-point output is assigned but
 not subsequently read by the plotting driver.

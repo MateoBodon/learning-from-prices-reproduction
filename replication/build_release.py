@@ -15,7 +15,7 @@ from file_inventory import ARCHIVE_STEM, RELEASE_MEMBERS, RELEASE_TAG, RELEASE_V
 ROOT = Path(__file__).resolve().parents[1]
 DIST = ROOT / "dist"
 MANIFEST_PATH = ROOT / "RELEASE_MANIFEST.json"
-FIXED_ZIP_TIME = (2026, 8, 12, 12, 0, 0)
+FIXED_ZIP_TIME = (2026, 8, 17, 12, 0, 0)
 
 
 def sha256_bytes(data: bytes) -> str:
@@ -41,7 +41,7 @@ def build_manifest() -> bytes:
         "status": "PASS",
         "version": RELEASE_VERSION,
         "tag": RELEASE_TAG,
-        "release_date": "2026-08-12",
+        "release_date": "2026-08-17",
         "creator": {
             "name": "Mateo Bodon",
             "orcid": "https://orcid.org/0009-0004-5012-835X",

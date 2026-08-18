@@ -10,7 +10,7 @@ The clean build verifies the following exact or certified quantities:
 - Original normalized fixed-point price gap: `125000/3544233`.
 - Original normalized first-update price gap: `125000/751233`.
 - Ratio of those normalized gaps: `168773/35773`.
-- Separate raw-gap ratio: `603/103`.
+- Separate unnormalized constant-coefficient-gap ratio: `603/103`.
 - Deposited 100-point variance sweep: 61 stable and 39 unstable cases.
 - Prespecified 8,100-cell variance grid: 6,267 stable and 1,833 unstable
   cases, with no boundary cells.

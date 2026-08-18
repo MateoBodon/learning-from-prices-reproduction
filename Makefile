@@ -1,6 +1,6 @@
 PYTHON ?= python3
 override MPLCONFIGDIR := .mplconfig
-export SOURCE_DATE_EPOCH := 1786550400
+export SOURCE_DATE_EPOCH := 1786968000
 export FORCE_SOURCE_DATE := 1
 export TZ := UTC
 export LANG := C

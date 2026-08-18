@@ -20,9 +20,9 @@
       "sha256": "657062bd6c016c431fe7658173ba3611697eeb21357fd82faef0b7d21a491c3f"
     },
     {
-      "bytes": 795,
+      "bytes": 825,
       "path": "CITATION.cff",
-      "sha256": "8dbd395534bc6a14b524a95dcbc97861495d71e54012b6a044e71eba40cbd796"
+      "sha256": "ef2ded2133979d947ad4b1da1b40aa2f20d128a7be9fde6f7dc89b5b9d0e448b"
     },
     {
       "bytes": 672,
@@ -37,7 +37,7 @@
     {
       "bytes": 971,
       "path": "Makefile",
-      "sha256": "597c9814ca1b6a32687dba09e13146af9a3fd2d94a5d229783f0909b074423f7"
+      "sha256": "9bb5217820c63a53bcd11d17f84cb7ce11381b4097dbe286174899ee85fe79df"
     },
     {
       "bytes": 753,
@@ -45,29 +45,29 @@
       "sha256": "109c18533e4e81fbafeb5d9ce2f61c0075f1e70ada0ccbe5cb720bc0b03dea58"
     },
     {
-      "bytes": 1776,
+      "bytes": 1772,
       "path": "PROVENANCE.md",
-      "sha256": "34292bcea11717c33718dc0908f376b0b7e7e0abbd02c1946ca33ed08d622e96"
+      "sha256": "070f6f3068158d19fc688f9e5217b1b2d1cfce0603170cfeaeacc0decf8d097f"
     },
     {
-      "bytes": 3652,
+      "bytes": 3693,
       "path": "README.md",
-      "sha256": "0310e2c4dc373309c55d8cf367fa081fc086275f7941410a3f3efe230b72bc17"
+      "sha256": "27e0e3f5639b0215e0191708d23a73eb6e81ea9147812f14da480378c9e735b8"
     },
     {
-      "bytes": 1274,
+      "bytes": 1304,
       "path": "RESULTS.md",
-      "sha256": "fa5b0abc9b77baff0c5052a6376693d653b038224db4e3f895e8e62afcebb5c8"
+      "sha256": "8df0341a6aea1d2baf12163af39e334ebdc8faad54af50bdbceee0c5a666674f"
     },
     {
-      "bytes": 1470,
+      "bytes": 1512,
       "path": "docs/FIGURE_DESCRIPTIONS.md",
-      "sha256": "6c0800e3b6f224f8b375cf4c8903c2f494d0429aac51c8900964234aaf73410d"
+      "sha256": "a08423a6fd3e6e49d871220ec8379e2d6017416ed9c438dc51eb0e96de388c02"
     },
     {
-      "bytes": 20249,
+      "bytes": 20342,
       "path": "figures/Fig1_stability_regions.pdf",
-      "sha256": "21e95621c44210c884a9d549dcaefa840798a6bf58e19a9c792a48bc679c50d1"
+      "sha256": "7b2d617cb5fd6361a60a55a8a2b5ae291b50d24f0d46301d0bd5ec9b8ed68955"
     },
     {
       "bytes": 111490,
@@ -75,9 +75,9 @@
       "sha256": "18c0a457ea77e19f203b1766e31e8a0895f50a9a99c7f50f64b96c2e4168b642"
     },
     {
-      "bytes": 22948,
+      "bytes": 23046,
       "path": "figures/Fig2_finite_iteration_error.pdf",
-      "sha256": "5d7b0aac3bb722c1b17bffba77fdc7f826e0989ea2b4a3f19459a952dea44400"
+      "sha256": "2299cd9abacce949b17689da266460e25b06d34f3a83babcbc8363041a9598cd"
     },
     {
       "bytes": 207274,
@@ -85,9 +85,9 @@
       "sha256": "bbba497d060c74606118d548e7dba9ab3a12d986c5109c36755797c2350fbff2"
     },
     {
-      "bytes": 22381,
+      "bytes": 22470,
       "path": "figures/Fig3_pole_geometry.pdf",
-      "sha256": "437a8d63e6cb6879206c90bac3319ffa23903324b91c9ba47fcdee56581df09f"
+      "sha256": "57138341cba1a7d6b44e7fd0a6c8a5ddcd2e256b0e0ca4a5fbe4bca8c20ed5dc"
     },
     {
       "bytes": 147764,
@@ -95,14 +95,14 @@
       "sha256": "600783952b3d6fa95fd31426505f9d43ca1a8dc3a782d8635cba9704f36381d1"
     },
     {
-      "bytes": 18878,
+      "bytes": 18549,
       "path": "figures/Fig4_private_map_paths.pdf",
-      "sha256": "88cbd6e52881164e99520d7d24434a67bc91e829dbbd7329837756b1936f3ecc"
+      "sha256": "305f7aae3942599f17565b219f5df568b02b1566d41a4a742b08aad22adf01cd"
     },
     {
-      "bytes": 182415,
+      "bytes": 184010,
       "path": "figures/Fig4_private_map_paths.png",
-      "sha256": "41bf7b4f3f0c3acc6d6a5c52aa4832d78043c0af2218f66c2e7259417347ad3b"
+      "sha256": "f778e17e59ad53a128bcc42d6dd8d1250c3b3a1784c37b4d9c9f6ea8c12b0aaa"
     },
     {
       "bytes": 1343,
@@ -117,7 +117,7 @@
     {
       "bytes": 3678,
       "path": "replication/build_release.py",
-      "sha256": "d16542c8dbc22e0e9d2d0cf17ec35191793b617f70640e89c81cd18c0271ad90"
+      "sha256": "cfb0286ea454a96bb535f964c00d0e9796a4d256c52e99703cf8707b32e27e16"
     },
     {
       "bytes": 4596,
@@ -132,27 +132,27 @@
     {
       "bytes": 2082,
       "path": "replication/file_inventory.py",
-      "sha256": "6b695ecd1044468697e05c75cc210d49192469c9eaa993f7e4259d04c8225b76"
+      "sha256": "33b285a8fd6cc12b6170ea5a7e4da1679ca508d9f0112f661da9a6b633e13330"
     },
     {
-      "bytes": 14505,
+      "bytes": 14927,
       "path": "replication/render_assets.py",
-      "sha256": "ecad55769f921e9a5909ea9d0635c8b97b9f0cdec0274d95c9614cd8a249b865"
+      "sha256": "4126d0b1c2922d1bb4145c265326afa3a5511b56c48bb6fb3a27dc9d4eaf5eba"
     },
     {
-      "bytes": 54943,
+      "bytes": 54961,
       "path": "replication/run_analysis.py",
-      "sha256": "55bbea050844da170863cc9e8dc7b74551044511965c08499ff467adaa9383be"
+      "sha256": "85bfca84b28ba7ea1a3b20e6a1d1cbaeb8854e42fa6f6ae2453eeda297598456"
     },
     {
       "bytes": 4193,
       "path": "replication/verify_release.py",
-      "sha256": "a034b6048ed78c78d7a2044bc873226de8802d3c703117931f76ebdb4e92fb63"
+      "sha256": "637dd0aaaf46aeeee142cb50fe9a44787b897e91394838615edb82b949516d3b"
     },
     {
-      "bytes": 20317,
+      "bytes": 20271,
       "path": "replication/verify_reproduction.py",
-      "sha256": "6f318cff5f0eb4744a8a4d1ec33a66e76c5941cbb682a541a6385326bea654dd"
+      "sha256": "70f5196973a7403457c744fc5039a42d2265228a523e84b63449ee5e44f92d62"
     },
     {
       "bytes": 59,
@@ -220,14 +220,14 @@
       "sha256": "733b162582c92ae9f82273b61bb0a522c049902c72118848ef9e2af02f10be19"
     },
     {
-      "bytes": 406,
+      "bytes": 418,
       "path": "tables/table2_private_identities.csv",
-      "sha256": "44ce3da75adef13b920ea5cb5f4801180080eab3fb6daf696d1cd0fc50a8d99a"
+      "sha256": "9d49bd0c6e3c7996c3568fe4d16f5df903b0101c2242d1f40c74fe16b8160e1c"
     },
     {
-      "bytes": 576,
+      "bytes": 588,
       "path": "tables/table2_private_identities.tex",
-      "sha256": "9289bad8aff46081f0b4e2789eb5f60fdd1ec6367a2d502b00c35e4a24894130"
+      "sha256": "46c4dae604018e29a2731e836e36e2ccf29234bae8a8710bcaabd70cad0a134a"
     },
     {
       "bytes": 520,
@@ -251,10 +251,10 @@
     }
   ],
   "license": "BSD-3-Clause",
-  "release_date": "2026-08-12",
+  "release_date": "2026-08-17",
   "schema": "learning-from-prices-public-release-manifest-v1",
   "scope": "independent code, documentation, and lawful derived results; no manuscript or third-party source files",
   "status": "PASS",
-  "tag": "v1.0.0",
-  "version": "1.0.0"
+  "tag": "v1.0.1",
+  "version": "1.0.1"
 }

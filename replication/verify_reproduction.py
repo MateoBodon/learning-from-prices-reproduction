@@ -17,7 +17,7 @@ from file_inventory import FIGURE_NAMES, PUBLIC_FILES, RESULT_NAMES, TABLE_NAMES
 
 ROOT = Path(__file__).resolve().parents[1]
 sys.set_int_max_str_digits(0)
-SOURCE_DATE_EPOCH = 1786550400
+SOURCE_DATE_EPOCH = 1786968000
 TEXT_SUFFIXES = {
     "",
     ".bib",
@@ -429,7 +429,6 @@ def check_public_scope() -> dict[str, int]:
         "programming syntax and package use",
         "secondary and adversarial checks",
         "accepts full responsibility",
-        "remains required before submission",
     ):
         if phrase not in normalized_readme:
             raise SystemExit(f"generative-AI disclosure phrase missing: {phrase}")
@@ -439,7 +438,7 @@ def check_public_scope() -> dict[str, int]:
         'given-names: "Mateo"',
         'orcid: "https://orcid.org/0009-0004-5012-835X"',
         'license: "BSD-3-Clause"',
-        'version: "1.0.0"',
+        'version: "1.0.1"',
         'repository-code: "https://github.com/MateoBodon/learning-from-prices-reproduction"',
     ):
         if field not in cff:

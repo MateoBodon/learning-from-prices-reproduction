@@ -27,7 +27,8 @@ styles.
 ## Figure 4: Private-map paths
 
 The left panel compares the mean-supply loading over 20 map applications under
-the article/updater-H and deposited-D denominator conventions. Horizontal
+the article/updater-H residual and the distinct deposited fixed-point-routine
+residual. Horizontal
 lines show their distinct fixed loadings. The right panel shows the absolute
 price-function gap over realizations from 0.5 to 1.5 at iterations 1, 10, and
-20, together with the fixed-point raw gap.
+20, together with the fixed-point constant-coefficient gap.

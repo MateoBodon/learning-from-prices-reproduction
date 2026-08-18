@@ -66,7 +66,7 @@ def main() -> None:
             path = PurePosixPath(info.filename)
             if path.is_absolute() or ".." in path.parts or info.is_dir():
                 raise SystemExit(f"unsafe release ZIP path: {info.filename}")
-            if info.date_time != (2026, 8, 12, 12, 0, 0):
+            if info.date_time != (2026, 8, 17, 12, 0, 0):
                 raise SystemExit(f"non-deterministic ZIP timestamp: {info.filename}")
             relative = info.filename.removeprefix(prefix)
             expected = (

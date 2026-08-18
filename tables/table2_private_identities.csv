@@ -5,4 +5,4 @@ Mean-supply residual,$5000/116781$,0.042815
 Fixed gap (fixed-$H$ norm),$125000/3544233$,3.526856\%
 First-update gap (time-1 $H$ norm),$125000/751233$,16.639312\%
 Normalized amplification,$168773/35773$,4.717888
-Raw-gap amplification,$603/103$,5.854369
+Raw coefficient-gap amplification,$603/103$,5.854369
