@@ -8,7 +8,7 @@ authors:
     affiliation: "Yale University, New Haven, Connecticut, USA"
     email: "mateo.bodon@yale.edu"
     orcid: "https://orcid.org/0009-0004-5012-835X"
-version: "1.0.1"
+version: "1.0.2"
 date-released: "2026-08-17"
 license: "BSD-3-Clause"
 repository-code: "https://github.com/MateoBodon/learning-from-prices-reproduction"

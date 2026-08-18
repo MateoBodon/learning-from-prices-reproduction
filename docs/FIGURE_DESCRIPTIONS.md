@@ -19,7 +19,8 @@ displayed benchmark at 0.60.
 ## Figure 3: Pole geometry
 
 The left panel plots the reduced update `w' = -w/t`, identifies the true pole,
-the chart-infinity location, and four finite preimages. The right panel plots
+the chart-infinity location (`w=1`, representing the point at infinity in the
+original `y` coordinate), and four finite preimages. The right panel plots
 the magnitude of the reduced coordinate over 20 updates for contraction,
 two-cycle, and expansion cases, using distinct colors, markers, and line
 styles.

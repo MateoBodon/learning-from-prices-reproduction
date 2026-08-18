@@ -360,7 +360,7 @@ def run_finite_pole_guard() -> dict[str, Any]:
 
 
 def persistent_entry(errors: list[F], band: F) -> int | str:
-    # errors is indexed by integer K=1,...,1000
+    # The errors sequence is indexed by integer update K=1,...,1000.
     suffix_ok = True
     first: int | None = None
     for k in range(1000, 0, -1):
@@ -472,7 +472,8 @@ def partial_price_error_exact(a: F, b: F, c: F, h: F, k: int) -> F:
 
 
 def persistent_partial_exact(a: F, b: F, c: F, h: F, band: F) -> int | str:
-    """Exact first listed horizon persistent through K=1000.
+    """Return the first listed horizon at which the path enters the band and
+    remains there through K=1000.
 
     In the stable regime, positivity gives delta<1 and epsilon<1.  The even
     and odd error subsequences are therefore separately decreasing, so the

@@ -22,7 +22,7 @@
     {
       "bytes": 825,
       "path": "CITATION.cff",
-      "sha256": "ef2ded2133979d947ad4b1da1b40aa2f20d128a7be9fde6f7dc89b5b9d0e448b"
+      "sha256": "041f13a9ea9e76772117a21b7d29f3d019ac4619ac1a1c241b43251cfcf66f53"
     },
     {
       "bytes": 672,
@@ -60,9 +60,9 @@
       "sha256": "8df0341a6aea1d2baf12163af39e334ebdc8faad54af50bdbceee0c5a666674f"
     },
     {
-      "bytes": 1512,
+      "bytes": 1587,
       "path": "docs/FIGURE_DESCRIPTIONS.md",
-      "sha256": "a08423a6fd3e6e49d871220ec8379e2d6017416ed9c438dc51eb0e96de388c02"
+      "sha256": "c2d4bbfaef44bd35e25f7751be8a65b0c0d905b8be8eb5ad143768d02d93fb54"
     },
     {
       "bytes": 20342,
@@ -132,7 +132,7 @@
     {
       "bytes": 2082,
       "path": "replication/file_inventory.py",
-      "sha256": "33b285a8fd6cc12b6170ea5a7e4da1679ca508d9f0112f661da9a6b633e13330"
+      "sha256": "d63558021dfb99a8288dd213d13fa3cc5f3fc1c28216b08c455d1d8fec32befd"
     },
     {
       "bytes": 14927,
@@ -140,9 +140,9 @@
       "sha256": "4126d0b1c2922d1bb4145c265326afa3a5511b56c48bb6fb3a27dc9d4eaf5eba"
     },
     {
-      "bytes": 54961,
+      "bytes": 55032,
       "path": "replication/run_analysis.py",
-      "sha256": "85bfca84b28ba7ea1a3b20e6a1d1cbaeb8854e42fa6f6ae2453eeda297598456"
+      "sha256": "c04f16d53178106d1bb41e16f6a8aefd5d9b48d3bb83e13ee7e6e8e8d03b993c"
     },
     {
       "bytes": 4193,
@@ -152,7 +152,7 @@
     {
       "bytes": 20271,
       "path": "replication/verify_reproduction.py",
-      "sha256": "70f5196973a7403457c744fc5039a42d2265228a523e84b63449ee5e44f92d62"
+      "sha256": "c2336efd95a18d14f33245beb0733b0d5d62eeb694babc1dd89b34fecdfb97e8"
     },
     {
       "bytes": 59,
@@ -255,6 +255,6 @@
   "schema": "learning-from-prices-public-release-manifest-v1",
   "scope": "independent code, documentation, and lawful derived results; no manuscript or third-party source files",
   "status": "PASS",
-  "tag": "v1.0.1",
-  "version": "1.0.1"
+  "tag": "v1.0.2",
+  "version": "1.0.2"
 }
